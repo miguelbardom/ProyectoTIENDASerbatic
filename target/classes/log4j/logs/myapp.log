@@ -1,0 +1,1977 @@
+17:28:01,670  INFO IndexServlet:81 - catalogo disponible
+17:29:31,493  INFO IndexServlet:63 - carrito disponible
+17:29:31,756  INFO IndexServlet:81 - catalogo disponible
+17:29:35,213  INFO IndexServlet:81 - catalogo disponible
+17:29:41,313  INFO IndexServlet:81 - catalogo disponible
+17:29:57,696  INFO IndexServlet:77 - Producto añadido al carrito
+17:29:57,700  INFO IndexServlet:81 - catalogo disponible
+17:30:32,496  INFO IndexServlet:63 - carrito disponible
+17:30:32,756  INFO IndexServlet:81 - catalogo disponible
+17:30:48,936  INFO IndexServlet:77 - Producto añadido al carrito
+17:30:48,940  INFO IndexServlet:81 - catalogo disponible
+17:31:03,244  INFO IndexServlet:81 - catalogo disponible
+17:31:30,324  INFO LoginServlet:120 - clave incorrecta
+17:31:35,880  INFO IndexServlet:77 - Producto añadido al carrito
+17:33:43,904  INFO IndexServlet:63 - carrito disponible
+17:33:44,185  INFO IndexServlet:81 - catalogo disponible
+17:33:56,274  INFO LoginServlet:120 - clave incorrecta
+17:34:02,499  INFO LoginServlet:111 - clave correcta
+17:34:02,507  INFO IndexServlet:81 - catalogo disponible
+17:34:05,308  INFO IndexServlet:77 - Producto añadido al carrito
+17:34:05,311  INFO IndexServlet:81 - catalogo disponible
+17:34:05,911  INFO IndexServlet:77 - Producto añadido al carrito
+17:34:05,926  INFO IndexServlet:81 - catalogo disponible
+17:34:06,495  INFO IndexServlet:73 - Producto añadido al carrito
+17:34:06,507  INFO IndexServlet:81 - catalogo disponible
+17:34:06,665  INFO IndexServlet:73 - Producto añadido al carrito
+17:34:06,668  INFO IndexServlet:81 - catalogo disponible
+17:34:06,830  INFO IndexServlet:73 - Producto añadido al carrito
+17:34:06,833  INFO IndexServlet:81 - catalogo disponible
+17:34:06,983  INFO IndexServlet:73 - Producto añadido al carrito
+17:34:06,983  INFO IndexServlet:81 - catalogo disponible
+17:34:11,825  INFO IndexServlet:81 - catalogo disponible
+17:34:12,984  INFO IndexServlet:63 - carrito disponible
+17:34:12,985  INFO IndexServlet:81 - catalogo disponible
+17:35:12,499  INFO IndexServlet:81 - catalogo disponible
+17:35:14,722  INFO IndexServlet:81 - catalogo disponible
+17:35:16,465  INFO IndexServlet:81 - catalogo disponible
+17:35:18,017  INFO IndexServlet:81 - catalogo disponible
+17:35:19,550  INFO IndexServlet:81 - catalogo disponible
+17:35:21,375  INFO IndexServlet:81 - catalogo disponible
+18:16:59,798  INFO IndexServlet:63 - carrito disponible
+18:17:00,064  INFO IndexServlet:81 - catalogo disponible
+18:17:09,150  INFO IndexServlet:81 - catalogo disponible
+18:17:10,307  INFO IndexServlet:81 - catalogo disponible
+19:42:43,581  INFO IndexServlet:63 - carrito disponible
+19:42:43,871  INFO IndexServlet:81 - catalogo disponible
+19:44:27,065  INFO IndexServlet:81 - catalogo disponible
+19:44:27,900  INFO IndexServlet:81 - catalogo disponible
+20:07:44,570  INFO IndexServlet:63 - carrito disponible
+20:07:44,855  INFO IndexServlet:81 - catalogo disponible
+20:08:07,661  INFO IndexServlet:81 - catalogo disponible
+20:09:22,111  INFO IndexServlet:81 - catalogo disponible
+20:15:32,547  INFO IndexServlet:63 - carrito disponible
+20:15:32,816  INFO IndexServlet:81 - catalogo disponible
+20:15:45,898  INFO LoginServlet:111 - clave correcta
+20:15:45,909  INFO IndexServlet:81 - catalogo disponible
+20:17:55,287  INFO IndexServlet:81 - catalogo disponible
+20:18:02,551  INFO LoginServlet:111 - clave correcta
+20:18:02,564  INFO IndexServlet:81 - catalogo disponible
+20:18:06,727  INFO IndexServlet:81 - catalogo disponible
+20:18:07,888  INFO IndexServlet:81 - catalogo disponible
+20:18:09,320  INFO IndexServlet:81 - catalogo disponible
+20:18:11,983  INFO IndexServlet:81 - catalogo disponible
+20:24:51,054  INFO IndexServlet:81 - catalogo disponible
+20:24:54,758  INFO IndexServlet:77 - Producto añadido al carrito
+20:24:54,761  INFO IndexServlet:81 - catalogo disponible
+20:24:57,318  INFO IndexServlet:77 - Producto añadido al carrito
+20:24:57,320  INFO IndexServlet:81 - catalogo disponible
+20:24:59,398  INFO IndexServlet:73 - Producto añadido al carrito
+20:24:59,398  INFO IndexServlet:81 - catalogo disponible
+20:25:07,769  INFO IndexServlet:81 - catalogo disponible
+21:04:48,409  INFO IndexServlet:63 - carrito disponible
+21:04:48,689  INFO IndexServlet:81 - catalogo disponible
+21:04:58,069  INFO LoginServlet:111 - clave correcta
+21:04:58,080  INFO IndexServlet:81 - catalogo disponible
+21:05:43,282  INFO IndexServlet:81 - catalogo disponible
+21:08:10,889  INFO IndexServlet:81 - catalogo disponible
+21:09:13,445  INFO IndexServlet:81 - catalogo disponible
+21:14:41,401  INFO IndexServlet:63 - carrito disponible
+21:14:41,659  INFO IndexServlet:81 - catalogo disponible
+21:14:49,353  INFO LoginServlet:111 - clave correcta
+21:14:49,363  INFO IndexServlet:81 - catalogo disponible
+21:37:14,054  INFO IndexServlet:63 - carrito disponible
+21:37:14,328  INFO IndexServlet:81 - catalogo disponible
+21:37:23,996  INFO LoginServlet:111 - clave correcta
+21:37:24,003  INFO IndexServlet:81 - catalogo disponible
+02:57:11,689  INFO IndexServlet:63 - carrito disponible
+02:57:11,966  INFO IndexServlet:81 - catalogo disponible
+02:57:30,424  INFO LoginServlet:111 - clave correcta
+02:57:30,434  INFO IndexServlet:81 - catalogo disponible
+02:58:54,971  INFO IndexServlet:63 - carrito disponible
+02:58:54,972  INFO IndexServlet:81 - catalogo disponible
+02:59:01,318  INFO LoginServlet:111 - clave correcta
+02:59:01,325  INFO IndexServlet:81 - catalogo disponible
+03:01:49,592  INFO IndexServlet:63 - carrito disponible
+03:01:49,594  INFO IndexServlet:81 - catalogo disponible
+03:02:12,881  INFO IndexServlet:63 - carrito disponible
+03:02:13,153  INFO IndexServlet:81 - catalogo disponible
+03:02:27,716  INFO LoginServlet:111 - clave correcta
+03:02:27,733  INFO IndexServlet:81 - catalogo disponible
+03:04:47,347  INFO IndexServlet:63 - carrito disponible
+03:04:47,631  INFO IndexServlet:81 - catalogo disponible
+03:05:01,685  INFO LoginServlet:111 - clave correcta
+03:05:01,696  INFO IndexServlet:81 - catalogo disponible
+03:05:33,938  INFO IndexServlet:81 - catalogo disponible
+03:14:22,618  INFO IndexServlet:63 - carrito disponible
+03:14:22,888  INFO IndexServlet:81 - catalogo disponible
+03:14:32,483  INFO LoginServlet:111 - clave correcta
+03:14:32,496  INFO IndexServlet:81 - catalogo disponible
+12:46:43,019  INFO IndexServlet:63 - carrito disponible
+12:46:43,305  INFO IndexServlet:81 - catalogo disponible
+12:49:29,676  INFO IndexServlet:81 - catalogo disponible
+12:49:52,426  INFO IndexServlet:81 - catalogo disponible
+12:50:05,836  INFO IndexServlet:81 - catalogo disponible
+12:50:21,278  INFO IndexServlet:81 - catalogo disponible
+12:50:42,249  INFO IndexServlet:81 - catalogo disponible
+12:51:08,397  INFO IndexServlet:81 - catalogo disponible
+12:51:29,756  INFO IndexServlet:81 - catalogo disponible
+12:51:48,079  INFO IndexServlet:81 - catalogo disponible
+12:53:31,782  INFO IndexServlet:81 - catalogo disponible
+12:55:14,608  INFO IndexServlet:81 - catalogo disponible
+12:55:32,259  INFO IndexServlet:81 - catalogo disponible
+12:55:58,846  INFO IndexServlet:81 - catalogo disponible
+12:57:14,645  INFO IndexServlet:81 - catalogo disponible
+12:57:22,691  INFO IndexServlet:81 - catalogo disponible
+12:57:35,669  INFO IndexServlet:81 - catalogo disponible
+12:57:44,186  INFO IndexServlet:81 - catalogo disponible
+12:57:52,852  INFO IndexServlet:81 - catalogo disponible
+12:58:01,305  INFO IndexServlet:81 - catalogo disponible
+12:58:17,474  INFO IndexServlet:81 - catalogo disponible
+12:58:59,996  INFO IndexServlet:81 - catalogo disponible
+12:59:28,009  INFO IndexServlet:81 - catalogo disponible
+13:00:48,110  INFO IndexServlet:81 - catalogo disponible
+13:02:49,171  INFO LoginServlet:111 - clave correcta
+13:02:49,174  INFO IndexServlet:81 - catalogo disponible
+13:28:59,387  INFO IndexServlet:70 - carrito disponible
+13:28:59,701  INFO IndexServlet:88 - catalogo disponible
+13:29:07,284  INFO LoginServlet:111 - clave correcta
+13:29:07,293  INFO IndexServlet:88 - catalogo disponible
+13:30:46,160  INFO IndexServlet:70 - carrito disponible
+13:30:46,162  INFO IndexServlet:88 - catalogo disponible
+13:30:51,822  INFO LoginServlet:111 - clave correcta
+13:30:51,828  INFO IndexServlet:88 - catalogo disponible
+13:31:57,998  INFO IndexServlet:88 - catalogo disponible
+13:32:02,760  INFO IndexServlet:88 - catalogo disponible
+13:32:09,188  INFO IndexServlet:88 - catalogo disponible
+13:32:12,394  INFO IndexServlet:70 - carrito disponible
+13:32:12,397  INFO IndexServlet:88 - catalogo disponible
+13:46:29,388  INFO IndexServlet:70 - carrito disponible
+13:46:29,642  INFO IndexServlet:88 - catalogo disponible
+13:46:49,016  INFO LoginServlet:111 - clave correcta
+13:46:49,025  INFO IndexServlet:88 - catalogo disponible
+13:47:12,021  INFO IndexServlet:88 - catalogo disponible
+13:47:13,951  INFO IndexServlet:70 - carrito disponible
+13:47:13,953  INFO IndexServlet:88 - catalogo disponible
+13:48:04,509  INFO IndexServlet:88 - catalogo disponible
+16:23:40,949  INFO IndexServlet:70 - carrito disponible
+16:23:41,216  INFO IndexServlet:88 - catalogo disponible
+16:25:02,535  INFO LoginServlet:111 - clave correcta
+16:25:02,545  INFO IndexServlet:88 - catalogo disponible
+16:25:32,381  INFO IndexServlet:88 - catalogo disponible
+16:31:28,623  INFO IndexServlet:70 - carrito disponible
+16:31:28,913  INFO IndexServlet:88 - catalogo disponible
+16:31:34,999  INFO LoginServlet:111 - clave correcta
+16:31:34,999  INFO IndexServlet:88 - catalogo disponible
+16:32:17,857  INFO IndexServlet:70 - carrito disponible
+16:32:17,858  INFO IndexServlet:88 - catalogo disponible
+16:32:23,425  INFO LoginServlet:111 - clave correcta
+16:32:23,431  INFO IndexServlet:88 - catalogo disponible
+16:33:17,734  INFO IndexServlet:70 - carrito disponible
+16:33:17,757  INFO IndexServlet:88 - catalogo disponible
+16:36:29,551  INFO IndexServlet:88 - catalogo disponible
+16:36:47,288  INFO IndexServlet:88 - catalogo disponible
+16:40:01,034  INFO IndexServlet:88 - catalogo disponible
+16:40:06,312  INFO LoginServlet:111 - clave correcta
+16:40:06,312  INFO IndexServlet:88 - catalogo disponible
+16:40:32,503  INFO IndexServlet:88 - catalogo disponible
+16:43:32,420  INFO IndexServlet:70 - carrito disponible
+16:43:32,438  INFO IndexServlet:88 - catalogo disponible
+16:48:28,223  INFO LoginServlet:111 - clave correcta
+16:48:28,224  INFO IndexServlet:70 - carrito disponible
+16:48:28,224  INFO IndexServlet:88 - catalogo disponible
+16:55:48,198  INFO IndexServlet:70 - carrito disponible
+16:55:48,200  INFO IndexServlet:88 - catalogo disponible
+16:55:54,078  INFO LoginServlet:111 - clave correcta
+16:55:54,084  INFO IndexServlet:88 - catalogo disponible
+16:56:53,475  INFO IndexServlet:70 - carrito disponible
+16:56:53,492  INFO IndexServlet:88 - catalogo disponible
+16:59:23,792  INFO IndexServlet:88 - catalogo disponible
+17:00:19,988  INFO IndexServlet:88 - catalogo disponible
+17:00:23,620  INFO IndexServlet:70 - carrito disponible
+17:00:23,624  INFO IndexServlet:88 - catalogo disponible
+17:17:27,246  INFO IndexServlet:70 - carrito disponible
+17:17:27,521  INFO IndexServlet:88 - catalogo disponible
+17:17:42,933  INFO LoginServlet:111 - clave correcta
+17:17:42,941  INFO IndexServlet:88 - catalogo disponible
+17:17:50,856  INFO IndexServlet:77 - Producto añadido al carrito
+17:17:50,864  INFO IndexServlet:88 - catalogo disponible
+17:17:56,600  INFO IndexServlet:77 - Producto añadido al carrito
+17:17:56,606  INFO IndexServlet:88 - catalogo disponible
+17:33:37,216  INFO IndexServlet:70 - carrito disponible
+17:33:37,482  INFO IndexServlet:88 - catalogo disponible
+17:33:43,765  INFO LoginServlet:111 - clave correcta
+17:33:43,786  INFO IndexServlet:88 - catalogo disponible
+17:33:49,382  INFO IndexServlet:77 - Producto añadido al carrito
+17:33:49,383  INFO IndexServlet:88 - catalogo disponible
+17:33:51,379  INFO IndexServlet:77 - Producto añadido al carrito
+17:33:51,383  INFO IndexServlet:88 - catalogo disponible
+17:35:28,113  INFO IndexServlet:88 - catalogo disponible
+17:41:38,940  INFO IndexServlet:70 - carrito disponible
+17:41:39,216  INFO IndexServlet:88 - catalogo disponible
+17:41:44,728  INFO LoginServlet:111 - clave correcta
+17:41:44,736  INFO IndexServlet:88 - catalogo disponible
+17:42:00,145  INFO IndexServlet:88 - catalogo disponible
+17:42:09,032  INFO IndexServlet:88 - catalogo disponible
+17:42:13,129  INFO IndexServlet:77 - Producto añadido al carrito
+17:42:13,152  INFO IndexServlet:88 - catalogo disponible
+17:42:15,349  INFO IndexServlet:73 - Producto añadido al carrito
+17:42:15,355  INFO IndexServlet:88 - catalogo disponible
+17:42:38,839  INFO IndexServlet:88 - catalogo disponible
+17:43:40,390  INFO IndexServlet:88 - catalogo disponible
+17:44:04,056  INFO IndexServlet:88 - catalogo disponible
+17:44:08,472  INFO IndexServlet:88 - catalogo disponible
+17:44:13,957  INFO IndexServlet:70 - carrito disponible
+17:44:13,959  INFO IndexServlet:88 - catalogo disponible
+15:25:50,994  INFO IndexServlet:70 - carrito disponible
+15:26:25,135  INFO IndexServlet:88 - catalogo disponible
+15:26:50,095  INFO IndexServlet:88 - catalogo disponible
+15:28:04,565  INFO LoginServlet:111 - clave correcta
+15:28:04,580  INFO IndexServlet:88 - catalogo disponible
+20:15:41,515  INFO IndexServlet:70 - carrito disponible
+20:15:41,806  INFO IndexServlet:88 - catalogo disponible
+20:15:58,740  INFO LoginServlet:120 - clave incorrecta
+20:17:08,406  INFO AccesoServlet:114 - clave correcta
+20:17:22,446  INFO IndexServlet:88 - catalogo disponible
+20:17:27,385  INFO IndexServlet:70 - carrito disponible
+20:17:27,390  INFO IndexServlet:88 - catalogo disponible
+20:18:09,860 ERROR AccesoServlet:133 - Error al verificar la contraseña: null
+21:03:41,077  INFO IndexServlet:70 - carrito disponible
+21:03:41,347  INFO IndexServlet:88 - catalogo disponible
+21:03:51,909  INFO LoginServlet:114 - clave correcta
+21:03:51,923  INFO IndexServlet:88 - catalogo disponible
+21:05:26,244  INFO IndexServlet:70 - carrito disponible
+21:05:26,519  INFO IndexServlet:88 - catalogo disponible
+21:05:40,095  INFO LoginServlet:114 - clave correcta
+21:05:40,107  INFO IndexServlet:88 - catalogo disponible
+21:38:56,608  INFO IndexServlet:70 - carrito disponible
+21:38:56,908  INFO IndexServlet:88 - catalogo disponible
+21:39:04,469  INFO LoginServlet:116 - Rol de usuario, es correcto
+21:39:04,519  INFO LoginServlet:125 - clave correcta
+21:39:04,532  INFO IndexServlet:88 - catalogo disponible
+21:39:41,776  INFO IndexServlet:70 - carrito disponible
+21:39:41,779  INFO IndexServlet:88 - catalogo disponible
+21:39:46,204  INFO LoginServlet:116 - Rol de usuario, es correcto
+21:39:46,213  INFO LoginServlet:134 - clave incorrecta
+21:39:56,708  INFO LoginServlet:110 - Rol incorrecto
+21:40:20,547  INFO LoginServlet:110 - Rol incorrecto
+21:40:42,109  INFO AccesoServlet:110 - Rol incorrecto
+21:41:13,126  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:41:13,127 ERROR AccesoServlet:145 - Error al verificar la contraseña: null
+21:41:19,787  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:41:19,787 ERROR AccesoServlet:145 - Error al verificar la contraseña: null
+21:41:30,703  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:41:30,703 ERROR AccesoServlet:145 - Error al verificar la contraseña: null
+21:51:48,880  INFO IndexServlet:70 - carrito disponible
+21:51:49,152  INFO IndexServlet:88 - catalogo disponible
+21:52:03,828  INFO LoginServlet:110 - Rol incorrecto
+21:52:13,642  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:52:13,655 ERROR AccesoServlet:145 - Error al verificar la contraseña: null
+21:53:01,301  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:53:01,302 ERROR AccesoServlet:145 - Error al verificar la contraseña: null
+21:53:18,833  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:53:18,833 ERROR AccesoServlet:145 - Error al verificar la contraseña: null
+21:59:36,213  INFO IndexServlet:88 - catalogo disponible
+21:59:45,833  INFO LoginServlet:116 - Rol de usuario, es correcto
+21:59:45,833 ERROR LoginServlet:143 - Error al verificar la contraseña: null
+22:00:44,132  INFO RegistroServlet:83 - password encriptada
+22:00:44,144  INFO RegistroServlet:97 - errores en el registro
+22:09:01,545  INFO IndexServlet:70 - carrito disponible
+22:09:01,813  INFO IndexServlet:88 - catalogo disponible
+22:09:24,194  INFO RegistroServlet:84 - password encriptada
+22:09:24,223  INFO RegistroServlet:92 - usuario registrado
+22:18:22,000  INFO IndexServlet:70 - carrito disponible
+22:18:22,273  INFO IndexServlet:88 - catalogo disponible
+22:18:30,227  INFO LoginServlet:116 - Rol de usuario, es correcto
+22:18:30,291  INFO LoginServlet:125 - clave correcta
+22:18:30,305  INFO IndexServlet:88 - catalogo disponible
+22:18:34,319  INFO IndexServlet:70 - carrito disponible
+22:18:34,329  INFO IndexServlet:88 - catalogo disponible
+22:18:51,493  INFO RegistroServlet:84 - password encriptada
+22:18:51,520 ERROR RegistroServlet:103 - errores en el registro
+22:19:47,892  INFO IndexServlet:70 - carrito disponible
+22:19:48,143  INFO IndexServlet:88 - catalogo disponible
+22:20:11,606  INFO RegistroServlet:84 - password encriptada
+22:20:11,617 ERROR RegistroServlet:93 - Error: correo electronico ya registrado
+22:21:53,788  INFO RegistroServlet:84 - password encriptada
+22:21:53,791 ERROR RegistroServlet:93 - Error: correo electronico ya registrado
+22:22:37,310  INFO RegistroServlet:84 - password encriptada
+22:22:37,313  INFO RegistroServlet:103 - usuario registrado
+22:23:04,117  INFO RegistroServlet:84 - password encriptada
+22:23:04,123  INFO RegistroServlet:103 - usuario registrado
+22:23:19,102  INFO IndexServlet:88 - catalogo disponible
+22:23:27,367  INFO LoginServlet:110 - Rol incorrecto
+22:23:35,464  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:23:35,478  INFO AccesoServlet:126 - clave correcta
+22:23:42,463  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:23:42,470  INFO AccesoServlet:136 - clave incorrecta
+18:52:08,632  INFO IndexServlet:70 - carrito disponible
+18:52:32,671  INFO IndexServlet:88 - catalogo disponible
+18:52:42,628  INFO AccesoServlet:116 - Rol de usuario, es correcto
+18:52:42,702  INFO AccesoServlet:126 - clave correcta
+18:53:06,252  INFO AccesoServlet:116 - Rol de usuario, es correcto
+18:53:06,262  INFO AccesoServlet:126 - clave correcta
+18:53:54,784  INFO IndexServlet:70 - carrito disponible
+18:53:55,096  INFO IndexServlet:88 - catalogo disponible
+18:54:04,879  INFO AccesoServlet:116 - Rol de usuario, es correcto
+18:54:05,005  INFO AccesoServlet:126 - clave correcta
+18:54:39,953  INFO AccesoServlet:116 - Rol de usuario, es correcto
+18:54:39,982  INFO AccesoServlet:126 - clave correcta
+19:08:39,334  INFO AccesoServlet:116 - Rol de usuario, es correcto
+19:08:39,346  INFO AccesoServlet:126 - clave correcta
+19:41:25,465  INFO IndexServlet:70 - carrito disponible
+19:41:25,748  INFO IndexServlet:88 - catalogo disponible
+19:41:54,778  INFO AccesoServlet:110 - Rol incorrecto
+19:42:01,470  INFO AccesoServlet:116 - Rol de usuario, es correcto
+19:42:01,527  INFO AccesoServlet:126 - clave correcta
+19:45:01,845  INFO IndexServlet:70 - carrito disponible
+19:45:02,135  INFO IndexServlet:88 - catalogo disponible
+01:41:30,842  INFO IndexServlet:70 - carrito disponible
+01:41:31,117  INFO IndexServlet:88 - catalogo disponible
+01:41:45,127  INFO AccesoServlet:116 - Rol de usuario, es correcto
+01:41:45,220  INFO AccesoServlet:126 - clave correcta
+01:42:41,796  INFO IndexServlet:70 - carrito disponible
+01:42:42,076  INFO IndexServlet:88 - catalogo disponible
+01:42:56,147  INFO AccesoServlet:116 - Rol de usuario, es correcto
+01:42:56,231  INFO AccesoServlet:126 - clave correcta
+01:43:56,819  INFO AccesoServlet:116 - Rol de usuario, es correcto
+01:43:56,835  INFO AccesoServlet:126 - clave correcta
+02:48:02,959  INFO IndexServlet:70 - carrito disponible
+02:48:03,248  INFO IndexServlet:88 - catalogo disponible
+03:10:39,899  INFO AccesoServlet:116 - Rol de usuario, es correcto
+03:10:39,977  INFO AccesoServlet:126 - clave correcta
+03:53:32,866  INFO IndexServlet:70 - carrito disponible
+03:53:33,187  INFO IndexServlet:88 - catalogo disponible
+04:02:05,483  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:02:05,535  INFO AccesoServlet:126 - clave correcta
+04:06:11,294  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:06:11,302  INFO AccesoServlet:126 - clave correcta
+04:06:51,406  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:06:51,413  INFO AccesoServlet:126 - clave correcta
+04:09:42,707  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:09:42,715  INFO AccesoServlet:126 - clave correcta
+04:10:57,652  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:10:57,660  INFO AccesoServlet:126 - clave correcta
+04:11:42,186  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:11:42,195  INFO AccesoServlet:126 - clave correcta
+04:12:12,119  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:12:12,127  INFO AccesoServlet:126 - clave correcta
+04:12:30,335  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:12:30,343  INFO AccesoServlet:126 - clave correcta
+04:14:05,776  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:14:05,784  INFO AccesoServlet:126 - clave correcta
+04:15:00,525  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:15:00,534  INFO AccesoServlet:126 - clave correcta
+04:15:22,608  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:15:22,616  INFO AccesoServlet:126 - clave correcta
+04:15:34,694  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:15:34,701  INFO AccesoServlet:126 - clave correcta
+04:15:51,149  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:15:51,158  INFO AccesoServlet:126 - clave correcta
+04:16:07,007  INFO IndexServlet:88 - catalogo disponible
+04:16:39,458  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:16:39,470  INFO AccesoServlet:126 - clave correcta
+13:43:44,820  INFO IndexServlet:70 - carrito disponible
+13:44:09,451  INFO IndexServlet:88 - catalogo disponible
+13:44:45,201  INFO AccesoServlet:116 - Rol de usuario, es correcto
+13:44:45,245  INFO AccesoServlet:126 - clave correcta
+13:45:00,096  INFO AccesoServlet:116 - Rol de usuario, es correcto
+13:45:00,105  INFO AccesoServlet:126 - clave correcta
+13:45:29,965  INFO AccesoServlet:116 - Rol de usuario, es correcto
+13:45:29,972  INFO AccesoServlet:126 - clave correcta
+13:46:32,702  INFO AccesoServlet:116 - Rol de usuario, es correcto
+13:46:32,709  INFO AccesoServlet:126 - clave correcta
+13:46:59,910  INFO AccesoServlet:116 - Rol de usuario, es correcto
+13:46:59,919  INFO AccesoServlet:126 - clave correcta
+13:47:07,522  INFO IndexServlet:88 - catalogo disponible
+13:47:58,496  INFO AccesoServlet:116 - Rol de usuario, es correcto
+13:47:58,504  INFO AccesoServlet:126 - clave correcta
+13:49:09,280  INFO AccesoServlet:116 - Rol de usuario, es correcto
+13:49:09,289  INFO AccesoServlet:126 - clave correcta
+13:49:13,915  INFO IndexServlet:70 - carrito disponible
+13:49:13,919  INFO IndexServlet:88 - catalogo disponible
+13:52:18,875  INFO IndexServlet:70 - carrito disponible
+13:52:19,156  INFO IndexServlet:88 - catalogo disponible
+13:52:33,788  INFO IndexServlet:88 - catalogo disponible
+13:54:07,359  INFO IndexServlet:88 - catalogo disponible
+13:54:08,762  INFO IndexServlet:88 - catalogo disponible
+13:54:08,983  INFO IndexServlet:88 - catalogo disponible
+13:54:09,208  INFO IndexServlet:88 - catalogo disponible
+13:54:09,368  INFO IndexServlet:88 - catalogo disponible
+13:54:09,536  INFO IndexServlet:88 - catalogo disponible
+13:54:10,416  INFO IndexServlet:88 - catalogo disponible
+13:55:05,999  INFO IndexServlet:88 - catalogo disponible
+13:55:43,752  INFO IndexServlet:88 - catalogo disponible
+13:55:51,711  INFO IndexServlet:88 - catalogo disponible
+13:56:08,424  INFO IndexServlet:88 - catalogo disponible
+13:56:09,117  INFO IndexServlet:88 - catalogo disponible
+13:56:09,349  INFO IndexServlet:88 - catalogo disponible
+13:56:09,506  INFO IndexServlet:88 - catalogo disponible
+13:56:16,238  INFO IndexServlet:88 - catalogo disponible
+13:56:25,902  INFO IndexServlet:88 - catalogo disponible
+13:57:05,371  INFO IndexServlet:88 - catalogo disponible
+13:57:15,680  INFO IndexServlet:88 - catalogo disponible
+13:57:22,585  INFO IndexServlet:88 - catalogo disponible
+13:57:30,672  INFO IndexServlet:88 - catalogo disponible
+13:57:51,089  INFO IndexServlet:88 - catalogo disponible
+13:58:01,428  INFO IndexServlet:88 - catalogo disponible
+14:00:05,551  INFO IndexServlet:88 - catalogo disponible
+14:00:11,144  INFO IndexServlet:88 - catalogo disponible
+14:13:01,050  INFO IndexServlet:72 - carrito disponible
+14:13:01,327  INFO IndexServlet:90 - catalogo disponible
+14:13:01,336  INFO IndexServlet:96 - catalogo disponible
+14:14:03,885  INFO IndexServlet:90 - catalogo disponible
+14:14:03,889  INFO IndexServlet:96 - catalogo disponible
+14:14:28,312  INFO IndexServlet:90 - catalogo disponible
+14:14:28,316  INFO IndexServlet:96 - catalogo disponible
+14:14:52,736  INFO IndexServlet:90 - catalogo disponible
+14:14:52,739  INFO IndexServlet:96 - catalogo disponible
+14:15:09,897  INFO IndexServlet:90 - catalogo disponible
+14:15:09,900  INFO IndexServlet:96 - catalogo disponible
+14:15:11,317  INFO IndexServlet:90 - catalogo disponible
+14:15:11,320  INFO IndexServlet:96 - catalogo disponible
+14:15:11,542  INFO IndexServlet:90 - catalogo disponible
+14:15:11,544  INFO IndexServlet:96 - catalogo disponible
+14:15:19,209  INFO IndexServlet:90 - catalogo disponible
+14:15:19,209  INFO IndexServlet:96 - catalogo disponible
+14:15:19,678  INFO IndexServlet:90 - catalogo disponible
+14:15:19,678  INFO IndexServlet:96 - catalogo disponible
+14:15:19,834  INFO IndexServlet:90 - catalogo disponible
+14:15:19,838  INFO IndexServlet:96 - catalogo disponible
+14:15:19,986  INFO IndexServlet:90 - catalogo disponible
+14:15:19,989  INFO IndexServlet:96 - catalogo disponible
+14:15:20,337  INFO IndexServlet:90 - catalogo disponible
+14:15:20,342  INFO IndexServlet:96 - catalogo disponible
+14:15:21,521  INFO IndexServlet:90 - catalogo disponible
+14:15:21,525  INFO IndexServlet:96 - catalogo disponible
+14:16:44,739  INFO IndexServlet:90 - catalogo disponible
+14:16:44,743  INFO IndexServlet:96 - catalogo disponible
+14:17:08,757  INFO IndexServlet:90 - catalogo disponible
+14:17:08,757  INFO IndexServlet:96 - catalogo disponible
+14:17:34,973  INFO IndexServlet:90 - catalogo disponible
+14:17:34,977  INFO IndexServlet:96 - catalogo disponible
+14:18:55,730  INFO IndexServlet:90 - catalogo disponible
+14:18:55,735  INFO IndexServlet:96 - catalogo disponible
+14:19:28,376  INFO IndexServlet:90 - catalogo disponible
+14:19:28,379  INFO IndexServlet:96 - catalogo disponible
+14:20:26,067  INFO IndexServlet:90 - catalogo disponible
+14:20:26,069  INFO IndexServlet:96 - catalogo disponible
+14:50:33,495  INFO IndexServlet:72 - carrito disponible
+14:50:33,776  INFO IndexServlet:90 - catalogo disponible
+14:50:33,782  INFO IndexServlet:96 - catalogo disponible
+14:50:57,864  INFO IndexServlet:90 - catalogo disponible
+14:50:57,868  INFO IndexServlet:96 - catalogo disponible
+14:51:21,706  INFO IndexServlet:90 - catalogo disponible
+14:51:21,710  INFO IndexServlet:96 - catalogo disponible
+14:51:24,932  INFO IndexServlet:90 - catalogo disponible
+14:51:24,935  INFO IndexServlet:96 - catalogo disponible
+14:51:28,291  INFO IndexServlet:90 - catalogo disponible
+14:51:28,291  INFO IndexServlet:96 - catalogo disponible
+14:51:36,117  INFO IndexServlet:90 - catalogo disponible
+14:51:36,120  INFO IndexServlet:96 - catalogo disponible
+14:51:41,255  INFO IndexServlet:90 - catalogo disponible
+14:51:41,258  INFO IndexServlet:96 - catalogo disponible
+14:53:23,010  INFO IndexServlet:90 - catalogo disponible
+14:53:23,015  INFO IndexServlet:96 - catalogo disponible
+14:54:12,676  INFO IndexServlet:90 - catalogo disponible
+14:54:12,679  INFO IndexServlet:96 - catalogo disponible
+14:54:33,053  INFO IndexServlet:90 - catalogo disponible
+14:54:33,056  INFO IndexServlet:96 - catalogo disponible
+14:54:37,963  INFO IndexServlet:90 - catalogo disponible
+14:54:37,967  INFO IndexServlet:96 - catalogo disponible
+14:56:16,615  INFO IndexServlet:90 - catalogo disponible
+14:56:16,618  INFO IndexServlet:96 - catalogo disponible
+14:57:31,547  INFO IndexServlet:90 - catalogo disponible
+14:57:31,550  INFO IndexServlet:96 - catalogo disponible
+14:57:33,597  INFO IndexServlet:90 - catalogo disponible
+14:57:33,600  INFO IndexServlet:96 - catalogo disponible
+14:57:41,858  INFO LoginServlet:116 - Rol de usuario, es correcto
+14:57:41,928  INFO LoginServlet:125 - clave correcta
+14:57:41,934  INFO IndexServlet:90 - catalogo disponible
+14:57:41,936  INFO IndexServlet:96 - catalogo disponible
+14:57:54,343  INFO IndexServlet:90 - catalogo disponible
+14:57:54,347  INFO IndexServlet:96 - catalogo disponible
+14:58:59,555  INFO IndexServlet:90 - catalogo disponible
+14:58:59,557  INFO IndexServlet:96 - catalogo disponible
+14:59:09,368  INFO IndexServlet:90 - catalogo disponible
+14:59:09,368  INFO IndexServlet:96 - catalogo disponible
+14:59:10,246  INFO IndexServlet:90 - catalogo disponible
+14:59:10,248  INFO IndexServlet:96 - catalogo disponible
+14:59:40,357  INFO IndexServlet:90 - catalogo disponible
+14:59:40,361  INFO IndexServlet:96 - catalogo disponible
+14:59:52,240  INFO IndexServlet:90 - catalogo disponible
+14:59:52,242  INFO IndexServlet:96 - catalogo disponible
+15:00:00,756  INFO IndexServlet:72 - carrito disponible
+15:00:00,759  INFO IndexServlet:90 - catalogo disponible
+15:00:00,761  INFO IndexServlet:96 - catalogo disponible
+15:00:39,310  INFO IndexServlet:90 - catalogo disponible
+15:00:39,313  INFO IndexServlet:96 - catalogo disponible
+15:00:56,199  INFO IndexServlet:90 - catalogo disponible
+15:00:56,202  INFO IndexServlet:96 - catalogo disponible
+15:01:15,142  INFO IndexServlet:90 - catalogo disponible
+15:01:15,145  INFO IndexServlet:96 - catalogo disponible
+15:01:25,269  INFO IndexServlet:90 - catalogo disponible
+15:01:25,272  INFO IndexServlet:96 - catalogo disponible
+15:01:31,702  INFO IndexServlet:90 - catalogo disponible
+15:01:31,705  INFO IndexServlet:96 - catalogo disponible
+15:01:32,475  INFO IndexServlet:90 - catalogo disponible
+15:01:32,477  INFO IndexServlet:96 - catalogo disponible
+15:02:55,582  INFO IndexServlet:90 - catalogo disponible
+15:02:55,585  INFO IndexServlet:96 - catalogo disponible
+15:03:16,177  INFO IndexServlet:90 - catalogo disponible
+15:03:16,180  INFO IndexServlet:96 - catalogo disponible
+15:03:32,857  INFO IndexServlet:90 - catalogo disponible
+15:03:32,859  INFO IndexServlet:96 - catalogo disponible
+15:05:24,022  INFO IndexServlet:90 - catalogo disponible
+15:05:24,025  INFO IndexServlet:96 - catalogo disponible
+15:05:29,768  INFO IndexServlet:90 - catalogo disponible
+15:05:29,770  INFO IndexServlet:96 - catalogo disponible
+15:05:35,737  INFO IndexServlet:90 - catalogo disponible
+15:05:35,740  INFO IndexServlet:96 - catalogo disponible
+15:06:19,337  INFO IndexServlet:90 - catalogo disponible
+15:06:19,340  INFO IndexServlet:96 - catalogo disponible
+15:06:19,932  INFO IndexServlet:90 - catalogo disponible
+15:06:19,935  INFO IndexServlet:96 - catalogo disponible
+15:06:33,025  INFO IndexServlet:90 - catalogo disponible
+15:06:33,028  INFO IndexServlet:96 - catalogo disponible
+15:06:35,512  INFO IndexServlet:90 - catalogo disponible
+15:06:35,514  INFO IndexServlet:96 - catalogo disponible
+16:14:58,755  INFO IndexServlet:72 - carrito disponible
+16:14:59,031  INFO IndexServlet:90 - catalogo disponible
+16:14:59,038  INFO IndexServlet:96 - catalogo disponible
+16:22:58,024  INFO IndexServlet:90 - catalogo disponible
+16:22:58,028  INFO IndexServlet:96 - catalogo disponible
+16:55:06,627  INFO IndexServlet:72 - carrito disponible
+16:55:06,901  INFO IndexServlet:90 - catalogo disponible
+16:55:06,908  INFO IndexServlet:96 - mas vendidos disponible
+16:55:06,922  INFO IndexServlet:101 - editoriales disponible
+17:10:38,989  INFO IndexServlet:90 - catalogo disponible
+17:10:38,993  INFO IndexServlet:96 - mas vendidos disponible
+17:10:38,996  INFO IndexServlet:101 - editoriales disponible
+17:11:09,566  INFO IndexServlet:90 - catalogo disponible
+17:11:09,570  INFO IndexServlet:96 - mas vendidos disponible
+17:11:09,574  INFO IndexServlet:101 - editoriales disponible
+17:15:06,627  INFO IndexServlet:90 - catalogo disponible
+17:15:06,631  INFO IndexServlet:96 - mas vendidos disponible
+17:15:06,634  INFO IndexServlet:101 - editoriales disponible
+17:32:16,632  INFO IndexServlet:72 - carrito disponible
+17:32:16,913  INFO IndexServlet:90 - catalogo disponible
+17:32:16,921  INFO IndexServlet:96 - mas vendidos disponible
+17:32:16,935  INFO IndexServlet:101 - editoriales disponible
+17:32:22,426  INFO IndexServlet:90 - catalogo disponible
+17:32:22,429  INFO IndexServlet:96 - mas vendidos disponible
+17:32:22,429  INFO IndexServlet:101 - editoriales disponible
+17:32:28,663  INFO IndexServlet:90 - catalogo disponible
+17:32:28,667  INFO IndexServlet:96 - mas vendidos disponible
+17:32:28,670  INFO IndexServlet:101 - editoriales disponible
+17:32:30,549  INFO IndexServlet:90 - catalogo disponible
+17:32:30,553  INFO IndexServlet:96 - mas vendidos disponible
+17:32:30,556  INFO IndexServlet:101 - editoriales disponible
+17:32:33,409  INFO IndexServlet:90 - catalogo disponible
+17:32:33,412  INFO IndexServlet:96 - mas vendidos disponible
+17:32:33,415  INFO IndexServlet:101 - editoriales disponible
+17:32:38,457  INFO IndexServlet:90 - catalogo disponible
+17:32:38,457  INFO IndexServlet:96 - mas vendidos disponible
+17:32:38,457  INFO IndexServlet:101 - editoriales disponible
+17:32:45,426  INFO IndexServlet:90 - catalogo disponible
+17:32:45,429  INFO IndexServlet:96 - mas vendidos disponible
+17:32:45,432  INFO IndexServlet:101 - editoriales disponible
+17:36:11,852  INFO IndexServlet:90 - catalogo disponible
+17:36:11,854  INFO IndexServlet:96 - mas vendidos disponible
+17:36:11,857  INFO IndexServlet:101 - editoriales disponible
+17:36:14,302  INFO IndexServlet:90 - catalogo disponible
+17:36:14,305  INFO IndexServlet:96 - mas vendidos disponible
+17:36:14,308  INFO IndexServlet:101 - editoriales disponible
+17:36:29,650  INFO IndexServlet:90 - catalogo disponible
+17:36:29,650  INFO IndexServlet:96 - mas vendidos disponible
+17:36:29,661  INFO IndexServlet:101 - editoriales disponible
+17:36:34,071  INFO IndexServlet:90 - catalogo disponible
+17:36:34,074  INFO IndexServlet:96 - mas vendidos disponible
+17:36:34,078  INFO IndexServlet:101 - editoriales disponible
+17:36:36,148  INFO IndexServlet:90 - catalogo disponible
+17:36:36,151  INFO IndexServlet:96 - mas vendidos disponible
+17:36:36,154  INFO IndexServlet:101 - editoriales disponible
+17:36:50,326  INFO IndexServlet:90 - catalogo disponible
+17:36:50,329  INFO IndexServlet:96 - mas vendidos disponible
+17:36:50,334  INFO IndexServlet:101 - editoriales disponible
+17:36:52,348  INFO IndexServlet:90 - catalogo disponible
+17:36:52,352  INFO IndexServlet:96 - mas vendidos disponible
+17:36:52,354  INFO IndexServlet:101 - editoriales disponible
+17:36:56,684  INFO IndexServlet:90 - catalogo disponible
+17:36:56,687  INFO IndexServlet:96 - mas vendidos disponible
+17:36:56,688  INFO IndexServlet:101 - editoriales disponible
+17:37:39,526  INFO IndexServlet:90 - catalogo disponible
+17:37:39,529  INFO IndexServlet:96 - mas vendidos disponible
+17:37:39,532  INFO IndexServlet:101 - editoriales disponible
+17:37:43,615  INFO IndexServlet:90 - catalogo disponible
+17:37:43,618  INFO IndexServlet:96 - mas vendidos disponible
+17:37:43,621  INFO IndexServlet:101 - editoriales disponible
+17:39:09,238  INFO IndexServlet:90 - catalogo disponible
+17:39:09,241  INFO IndexServlet:96 - mas vendidos disponible
+17:39:09,243  INFO IndexServlet:101 - editoriales disponible
+17:40:44,599  INFO IndexServlet:90 - catalogo disponible
+17:40:44,602  INFO IndexServlet:96 - mas vendidos disponible
+17:40:44,604  INFO IndexServlet:101 - editoriales disponible
+17:40:46,202  INFO IndexServlet:90 - catalogo disponible
+17:40:46,205  INFO IndexServlet:96 - mas vendidos disponible
+17:40:46,207  INFO IndexServlet:101 - editoriales disponible
+17:40:51,438  INFO IndexServlet:90 - catalogo disponible
+17:40:51,444  INFO IndexServlet:96 - mas vendidos disponible
+17:40:51,444  INFO IndexServlet:101 - editoriales disponible
+17:42:56,095  INFO IndexServlet:72 - carrito disponible
+17:42:56,371  INFO IndexServlet:90 - catalogo disponible
+17:42:56,377  INFO IndexServlet:96 - mas vendidos disponible
+17:42:56,388  INFO IndexServlet:101 - editoriales disponible
+17:43:14,957  INFO IndexServlet:90 - catalogo disponible
+17:43:14,963  INFO IndexServlet:96 - mas vendidos disponible
+17:43:14,963  INFO IndexServlet:101 - editoriales disponible
+17:43:23,355  INFO IndexServlet:90 - catalogo disponible
+17:43:23,356  INFO IndexServlet:96 - mas vendidos disponible
+17:43:23,363  INFO IndexServlet:101 - editoriales disponible
+17:43:42,459  INFO IndexServlet:90 - catalogo disponible
+17:43:42,462  INFO IndexServlet:96 - mas vendidos disponible
+17:43:42,465  INFO IndexServlet:101 - editoriales disponible
+17:43:49,658  INFO IndexServlet:90 - catalogo disponible
+17:43:49,664  INFO IndexServlet:96 - mas vendidos disponible
+17:43:49,664  INFO IndexServlet:101 - editoriales disponible
+17:43:55,132  INFO IndexServlet:90 - catalogo disponible
+17:43:55,140  INFO IndexServlet:96 - mas vendidos disponible
+17:43:55,140  INFO IndexServlet:101 - editoriales disponible
+17:43:58,306  INFO IndexServlet:90 - catalogo disponible
+17:43:58,309  INFO IndexServlet:96 - mas vendidos disponible
+17:43:58,309  INFO IndexServlet:101 - editoriales disponible
+17:44:08,337  INFO IndexServlet:90 - catalogo disponible
+17:44:08,340  INFO IndexServlet:96 - mas vendidos disponible
+17:44:08,343  INFO IndexServlet:101 - editoriales disponible
+17:44:10,950  INFO IndexServlet:90 - catalogo disponible
+17:44:10,958  INFO IndexServlet:96 - mas vendidos disponible
+17:44:10,961  INFO IndexServlet:101 - editoriales disponible
+17:44:17,943  INFO IndexServlet:90 - catalogo disponible
+17:44:17,948  INFO IndexServlet:96 - mas vendidos disponible
+17:44:17,948  INFO IndexServlet:101 - editoriales disponible
+17:44:18,768  INFO IndexServlet:90 - catalogo disponible
+17:44:18,771  INFO IndexServlet:96 - mas vendidos disponible
+17:44:18,775  INFO IndexServlet:101 - editoriales disponible
+17:44:26,991  INFO IndexServlet:90 - catalogo disponible
+17:44:26,994  INFO IndexServlet:96 - mas vendidos disponible
+17:44:26,996  INFO IndexServlet:101 - editoriales disponible
+17:46:04,850  INFO IndexServlet:90 - catalogo disponible
+17:46:04,852  INFO IndexServlet:96 - mas vendidos disponible
+17:46:04,855  INFO IndexServlet:101 - editoriales disponible
+17:46:23,552  INFO IndexServlet:90 - catalogo disponible
+17:46:23,555  INFO IndexServlet:96 - mas vendidos disponible
+17:46:23,558  INFO IndexServlet:101 - editoriales disponible
+17:46:28,901  INFO LoginServlet:116 - Rol de usuario, es correcto
+17:46:28,971  INFO LoginServlet:125 - clave correcta
+17:46:28,979  INFO IndexServlet:90 - catalogo disponible
+17:46:28,981  INFO IndexServlet:96 - mas vendidos disponible
+17:46:28,981  INFO IndexServlet:101 - editoriales disponible
+17:46:35,686  INFO IndexServlet:90 - catalogo disponible
+17:46:35,689  INFO IndexServlet:96 - mas vendidos disponible
+17:46:35,691  INFO IndexServlet:101 - editoriales disponible
+17:46:37,633  INFO IndexServlet:90 - catalogo disponible
+17:46:37,635  INFO IndexServlet:96 - mas vendidos disponible
+17:46:37,635  INFO IndexServlet:101 - editoriales disponible
+17:46:40,268  INFO IndexServlet:90 - catalogo disponible
+17:46:40,268  INFO IndexServlet:96 - mas vendidos disponible
+17:46:40,277  INFO IndexServlet:101 - editoriales disponible
+17:46:43,584  INFO IndexServlet:90 - catalogo disponible
+17:46:43,586  INFO IndexServlet:96 - mas vendidos disponible
+17:46:43,589  INFO IndexServlet:101 - editoriales disponible
+17:46:56,586  INFO IndexServlet:90 - catalogo disponible
+17:46:56,588  INFO IndexServlet:96 - mas vendidos disponible
+17:46:56,591  INFO IndexServlet:101 - editoriales disponible
+17:47:21,346  INFO IndexServlet:90 - catalogo disponible
+17:47:21,348  INFO IndexServlet:96 - mas vendidos disponible
+17:47:21,351  INFO IndexServlet:101 - editoriales disponible
+17:47:25,667  INFO IndexServlet:90 - catalogo disponible
+17:47:25,669  INFO IndexServlet:96 - mas vendidos disponible
+17:47:25,672  INFO IndexServlet:101 - editoriales disponible
+17:48:54,496  INFO IndexServlet:72 - carrito disponible
+17:48:54,763  INFO IndexServlet:90 - catalogo disponible
+17:48:54,770  INFO IndexServlet:96 - mas vendidos disponible
+17:48:54,780  INFO IndexServlet:101 - editoriales disponible
+17:49:07,507  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:49:07,567  INFO AccesoServlet:126 - clave correcta
+17:52:16,015  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:52:16,020  INFO AccesoServlet:126 - clave correcta
+17:53:08,428  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:53:08,435  INFO AccesoServlet:126 - clave correcta
+17:53:31,779  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:53:31,795  INFO AccesoServlet:126 - clave correcta
+17:53:40,900  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:53:40,907  INFO AccesoServlet:126 - clave correcta
+17:57:05,683  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:57:05,690  INFO AccesoServlet:126 - clave correcta
+17:57:21,225  INFO IndexServlet:90 - catalogo disponible
+17:57:21,228  INFO IndexServlet:96 - mas vendidos disponible
+17:57:21,232  INFO IndexServlet:101 - editoriales disponible
+17:57:31,529  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:57:31,536  INFO AccesoServlet:126 - clave correcta
+17:57:56,418  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:57:56,425  INFO AccesoServlet:126 - clave correcta
+17:58:12,746  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:58:12,753  INFO AccesoServlet:126 - clave correcta
+17:58:39,298  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:58:39,310  INFO AccesoServlet:126 - clave correcta
+18:00:19,284  INFO AccesoServlet:116 - Rol de usuario, es correcto
+18:00:19,291  INFO AccesoServlet:126 - clave correcta
+18:00:34,970  INFO AccesoServlet:116 - Rol de usuario, es correcto
+18:00:34,978  INFO AccesoServlet:126 - clave correcta
+18:02:18,928  INFO IndexServlet:90 - catalogo disponible
+18:02:18,930  INFO IndexServlet:96 - mas vendidos disponible
+18:02:18,933  INFO IndexServlet:101 - editoriales disponible
+18:02:25,121  INFO IndexServlet:72 - carrito disponible
+18:02:25,121  INFO IndexServlet:90 - catalogo disponible
+18:02:25,121  INFO IndexServlet:96 - mas vendidos disponible
+18:02:25,121  INFO IndexServlet:101 - editoriales disponible
+18:07:57,629  INFO AccesoServlet:116 - Rol de usuario, es correcto
+18:07:57,638  INFO AccesoServlet:126 - clave correcta
+19:04:45,670  INFO IndexServlet:72 - carrito disponible
+19:04:45,950  INFO IndexServlet:90 - catalogo disponible
+19:04:45,956  INFO IndexServlet:96 - mas vendidos disponible
+19:04:45,964  INFO IndexServlet:101 - editoriales disponible
+19:05:01,851  INFO AccesoServlet:116 - Rol de usuario, es correcto
+19:05:01,943  INFO AccesoServlet:126 - clave correcta
+19:11:37,307  INFO AccesoServlet:116 - Rol de usuario, es correcto
+19:11:37,347  INFO AccesoServlet:126 - clave correcta
+19:14:33,135  INFO IndexServlet:72 - carrito disponible
+19:14:33,413  INFO IndexServlet:90 - catalogo disponible
+19:14:33,418  INFO IndexServlet:96 - mas vendidos disponible
+19:14:33,426  INFO IndexServlet:101 - editoriales disponible
+19:14:41,159  INFO AccesoServlet:116 - Rol de usuario, es correcto
+19:14:41,239  INFO AccesoServlet:126 - clave correcta
+19:22:36,626  INFO AccesoServlet:116 - Rol de usuario, es correcto
+19:22:36,650  INFO AccesoServlet:126 - clave correcta
+19:25:53,797  INFO AccesoServlet:116 - Rol de usuario, es correcto
+19:25:53,812  INFO AccesoServlet:136 - clave incorrecta
+19:29:05,850  INFO IndexServlet:72 - carrito disponible
+19:29:06,116  INFO IndexServlet:90 - catalogo disponible
+19:29:06,122  INFO IndexServlet:96 - mas vendidos disponible
+19:29:06,129  INFO IndexServlet:101 - editoriales disponible
+19:29:15,178  INFO AccesoServlet:116 - Rol de usuario, es correcto
+19:29:15,240  INFO AccesoServlet:126 - clave correcta
+19:35:44,314  INFO IndexServlet:72 - carrito disponible
+19:35:44,596  INFO IndexServlet:90 - catalogo disponible
+19:35:44,602  INFO IndexServlet:96 - mas vendidos disponible
+19:35:44,610  INFO IndexServlet:101 - editoriales disponible
+19:35:51,351  INFO AccesoServlet:116 - Rol de usuario, es correcto
+19:35:51,476  INFO AccesoServlet:126 - clave correcta
+19:48:19,737  INFO IndexServlet:72 - carrito disponible
+19:48:20,425  INFO IndexServlet:90 - catalogo disponible
+19:48:20,441  INFO IndexServlet:96 - mas vendidos disponible
+19:48:20,460  INFO IndexServlet:101 - editoriales disponible
+19:52:43,029  INFO IndexServlet:90 - catalogo disponible
+19:52:43,046  INFO IndexServlet:96 - mas vendidos disponible
+19:52:43,064  INFO IndexServlet:101 - editoriales disponible
+20:23:23,407  INFO IndexServlet:72 - carrito disponible
+20:23:23,410  INFO IndexServlet:90 - catalogo disponible
+20:23:23,414  INFO IndexServlet:96 - mas vendidos disponible
+20:23:23,417  INFO IndexServlet:101 - editoriales disponible
+20:23:36,824  INFO AccesoServlet:116 - Rol de usuario, es correcto
+20:23:36,888  INFO AccesoServlet:126 - clave correcta
+20:25:28,233  INFO AccesoServlet:116 - Rol de usuario, es correcto
+20:25:28,249  INFO AccesoServlet:126 - clave correcta
+00:24:57,140  INFO IndexServlet:72 - carrito disponible
+00:24:57,498  INFO IndexServlet:90 - catalogo disponible
+00:24:57,505  INFO IndexServlet:96 - mas vendidos disponible
+00:24:57,514  INFO IndexServlet:101 - editoriales disponible
+00:25:23,194  INFO IndexServlet:90 - catalogo disponible
+00:25:23,199  INFO IndexServlet:96 - mas vendidos disponible
+00:25:23,204  INFO IndexServlet:101 - editoriales disponible
+00:26:18,094  INFO IndexServlet:90 - catalogo disponible
+00:26:18,098  INFO IndexServlet:96 - mas vendidos disponible
+00:26:18,102  INFO IndexServlet:101 - editoriales disponible
+00:26:21,019  INFO IndexServlet:90 - catalogo disponible
+00:26:21,023  INFO IndexServlet:96 - mas vendidos disponible
+00:26:21,031  INFO IndexServlet:101 - editoriales disponible
+00:26:30,722  INFO IndexServlet:90 - catalogo disponible
+00:26:30,725  INFO IndexServlet:96 - mas vendidos disponible
+00:26:30,729  INFO IndexServlet:101 - editoriales disponible
+00:26:39,099  INFO IndexServlet:77 - Producto añadido al carrito
+00:26:39,108  INFO IndexServlet:90 - catalogo disponible
+00:26:39,111  INFO IndexServlet:96 - mas vendidos disponible
+00:26:39,115  INFO IndexServlet:101 - editoriales disponible
+00:26:42,773  INFO IndexServlet:77 - Producto añadido al carrito
+00:26:42,780  INFO IndexServlet:90 - catalogo disponible
+00:26:42,783  INFO IndexServlet:96 - mas vendidos disponible
+00:26:42,787  INFO IndexServlet:101 - editoriales disponible
+00:26:53,812  INFO LoginServlet:116 - Rol de usuario, es correcto
+00:26:53,860  INFO LoginServlet:125 - clave correcta
+00:26:53,868  INFO IndexServlet:90 - catalogo disponible
+00:26:53,872  INFO IndexServlet:96 - mas vendidos disponible
+00:26:53,876  INFO IndexServlet:101 - editoriales disponible
+00:27:14,197  INFO IndexServlet:90 - catalogo disponible
+00:27:14,200  INFO IndexServlet:96 - mas vendidos disponible
+00:27:14,204  INFO IndexServlet:101 - editoriales disponible
+00:27:38,310  INFO AccesoServlet:116 - Rol de usuario, es correcto
+00:27:38,325  INFO AccesoServlet:126 - clave correcta
+00:28:00,156  INFO IndexServlet:72 - carrito disponible
+00:28:00,160  INFO IndexServlet:90 - catalogo disponible
+00:28:00,162  INFO IndexServlet:96 - mas vendidos disponible
+00:28:00,166  INFO IndexServlet:101 - editoriales disponible
+00:28:05,286  INFO LoginServlet:116 - Rol de usuario, es correcto
+00:28:05,293  INFO LoginServlet:125 - clave correcta
+00:28:05,302  INFO IndexServlet:90 - catalogo disponible
+00:28:05,305  INFO IndexServlet:96 - mas vendidos disponible
+00:28:05,309  INFO IndexServlet:101 - editoriales disponible
+00:28:16,109  INFO IndexServlet:90 - catalogo disponible
+00:28:16,112  INFO IndexServlet:96 - mas vendidos disponible
+00:28:16,115  INFO IndexServlet:101 - editoriales disponible
+00:29:29,598  INFO IndexServlet:90 - catalogo disponible
+00:29:29,601  INFO IndexServlet:96 - mas vendidos disponible
+00:29:29,603  INFO IndexServlet:101 - editoriales disponible
+00:29:39,359  INFO IndexServlet:90 - catalogo disponible
+00:29:39,362  INFO IndexServlet:96 - mas vendidos disponible
+00:29:39,365  INFO IndexServlet:101 - editoriales disponible
+00:29:47,031  INFO IndexServlet:90 - catalogo disponible
+00:29:47,034  INFO IndexServlet:96 - mas vendidos disponible
+00:29:47,038  INFO IndexServlet:101 - editoriales disponible
+00:30:22,042  INFO IndexServlet:90 - catalogo disponible
+00:30:22,045  INFO IndexServlet:96 - mas vendidos disponible
+00:30:22,049  INFO IndexServlet:101 - editoriales disponible
+00:30:35,388  INFO AccesoServlet:116 - Rol de usuario, es correcto
+00:30:35,395  INFO AccesoServlet:126 - clave correcta
+00:31:41,667  INFO IndexServlet:90 - catalogo disponible
+00:31:41,670  INFO IndexServlet:96 - mas vendidos disponible
+00:31:41,673  INFO IndexServlet:101 - editoriales disponible
+00:31:52,207  INFO IndexServlet:72 - carrito disponible
+00:31:52,210  INFO IndexServlet:90 - catalogo disponible
+00:31:52,213  INFO IndexServlet:96 - mas vendidos disponible
+00:31:52,217  INFO IndexServlet:101 - editoriales disponible
+00:31:59,321  INFO IndexServlet:90 - catalogo disponible
+00:31:59,324  INFO IndexServlet:96 - mas vendidos disponible
+00:31:59,326  INFO IndexServlet:101 - editoriales disponible
+00:32:37,590  INFO IndexServlet:77 - Producto añadido al carrito
+00:32:37,596  INFO IndexServlet:90 - catalogo disponible
+00:32:37,600  INFO IndexServlet:96 - mas vendidos disponible
+00:32:37,602  INFO IndexServlet:101 - editoriales disponible
+00:32:50,965 ERROR IndexServlet:69 - Error: No hay stock suficiente
+00:32:50,969  INFO IndexServlet:90 - catalogo disponible
+00:32:50,971  INFO IndexServlet:96 - mas vendidos disponible
+00:32:50,973  INFO IndexServlet:101 - editoriales disponible
+00:32:58,178  INFO IndexServlet:90 - catalogo disponible
+00:32:58,182  INFO IndexServlet:96 - mas vendidos disponible
+00:32:58,185  INFO IndexServlet:101 - editoriales disponible
+01:34:22,978  INFO IndexServlet:72 - carrito disponible
+01:34:23,264  INFO IndexServlet:90 - catalogo disponible
+01:34:23,270  INFO IndexServlet:96 - mas vendidos disponible
+01:34:23,280  INFO IndexServlet:101 - editoriales disponible
+01:35:10,950  INFO IndexServlet:90 - catalogo disponible
+01:35:10,954  INFO IndexServlet:96 - mas vendidos disponible
+01:35:10,957  INFO IndexServlet:101 - editoriales disponible
+01:35:50,577  INFO IndexServlet:90 - catalogo disponible
+01:35:50,581  INFO IndexServlet:96 - mas vendidos disponible
+01:35:50,584  INFO IndexServlet:101 - editoriales disponible
+01:36:46,272  INFO IndexServlet:90 - catalogo disponible
+01:36:46,274  INFO IndexServlet:96 - mas vendidos disponible
+01:36:46,277  INFO IndexServlet:101 - editoriales disponible
+01:37:01,810  INFO IndexServlet:90 - catalogo disponible
+01:37:01,813  INFO IndexServlet:96 - mas vendidos disponible
+01:37:01,816  INFO IndexServlet:101 - editoriales disponible
+01:37:08,212  INFO IndexServlet:90 - catalogo disponible
+01:37:08,216  INFO IndexServlet:96 - mas vendidos disponible
+01:37:08,219  INFO IndexServlet:101 - editoriales disponible
+01:37:56,041  INFO IndexServlet:90 - catalogo disponible
+01:37:56,043  INFO IndexServlet:96 - mas vendidos disponible
+01:37:56,047  INFO IndexServlet:101 - editoriales disponible
+01:38:39,385  INFO IndexServlet:90 - catalogo disponible
+01:38:39,389  INFO IndexServlet:96 - mas vendidos disponible
+01:38:39,392  INFO IndexServlet:101 - editoriales disponible
+01:38:43,637  INFO IndexServlet:90 - catalogo disponible
+01:38:43,640  INFO IndexServlet:96 - mas vendidos disponible
+01:38:43,643  INFO IndexServlet:101 - editoriales disponible
+01:38:48,018  INFO IndexServlet:90 - catalogo disponible
+01:38:48,021  INFO IndexServlet:96 - mas vendidos disponible
+01:38:48,024  INFO IndexServlet:101 - editoriales disponible
+01:39:43,169  INFO IndexServlet:90 - catalogo disponible
+01:39:43,171  INFO IndexServlet:96 - mas vendidos disponible
+01:39:43,175  INFO IndexServlet:101 - editoriales disponible
+01:39:49,003  INFO IndexServlet:90 - catalogo disponible
+01:39:49,007  INFO IndexServlet:96 - mas vendidos disponible
+01:39:49,011  INFO IndexServlet:101 - editoriales disponible
+01:39:55,142  INFO IndexServlet:90 - catalogo disponible
+01:39:55,144  INFO IndexServlet:96 - mas vendidos disponible
+01:39:55,148  INFO IndexServlet:101 - editoriales disponible
+01:40:58,599  INFO IndexServlet:90 - catalogo disponible
+01:40:58,601  INFO IndexServlet:96 - mas vendidos disponible
+01:40:58,604  INFO IndexServlet:101 - editoriales disponible
+01:41:09,055  INFO IndexServlet:90 - catalogo disponible
+01:41:09,058  INFO IndexServlet:96 - mas vendidos disponible
+01:41:09,061  INFO IndexServlet:101 - editoriales disponible
+01:41:34,739  INFO AccesoServlet:116 - Rol de usuario, es correcto
+01:41:34,816  INFO AccesoServlet:126 - clave correcta
+01:52:05,492  INFO IndexServlet:90 - catalogo disponible
+01:52:05,500  INFO IndexServlet:96 - mas vendidos disponible
+01:52:05,509  INFO IndexServlet:101 - editoriales disponible
+01:52:18,353  INFO IndexServlet:90 - catalogo disponible
+01:52:18,359  INFO IndexServlet:96 - mas vendidos disponible
+01:52:18,363  INFO IndexServlet:101 - editoriales disponible
+01:53:04,019  INFO AccesoServlet:116 - Rol de usuario, es correcto
+01:53:04,095  INFO AccesoServlet:126 - clave correcta
+02:00:44,414  INFO IndexServlet:72 - carrito disponible
+02:00:44,696  INFO IndexServlet:90 - catalogo disponible
+02:00:44,702  INFO IndexServlet:96 - mas vendidos disponible
+02:00:44,711  INFO IndexServlet:101 - editoriales disponible
+02:00:55,182  INFO AccesoServlet:116 - Rol de usuario, es correcto
+02:00:55,265  INFO AccesoServlet:126 - clave correcta
+02:18:39,366  INFO IndexServlet:72 - carrito disponible
+02:18:39,654  INFO IndexServlet:90 - catalogo disponible
+02:18:39,660  INFO IndexServlet:96 - mas vendidos disponible
+02:18:39,669  INFO IndexServlet:101 - editoriales disponible
+02:20:23,927  INFO IndexServlet:72 - carrito disponible
+02:20:24,232  INFO IndexServlet:90 - catalogo disponible
+02:20:24,238  INFO IndexServlet:96 - mas vendidos disponible
+02:20:24,246  INFO IndexServlet:101 - editoriales disponible
+02:27:46,997  INFO IndexServlet:72 - carrito disponible
+02:27:47,270  INFO IndexServlet:90 - catalogo disponible
+02:27:47,276  INFO IndexServlet:96 - mas vendidos disponible
+02:27:47,286  INFO IndexServlet:101 - editoriales disponible
+02:29:21,310  INFO IndexServlet:90 - catalogo disponible
+02:29:21,314  INFO IndexServlet:96 - mas vendidos disponible
+02:29:21,318  INFO IndexServlet:101 - editoriales disponible
+02:29:28,023  INFO IndexServlet:90 - catalogo disponible
+02:29:28,026  INFO IndexServlet:96 - mas vendidos disponible
+02:29:28,030  INFO IndexServlet:101 - editoriales disponible
+02:29:30,974  INFO IndexServlet:90 - catalogo disponible
+02:29:30,977  INFO IndexServlet:96 - mas vendidos disponible
+02:29:30,980  INFO IndexServlet:101 - editoriales disponible
+02:30:04,265  INFO AccesoServlet:116 - Rol de usuario, es correcto
+02:30:04,340  INFO AccesoServlet:126 - clave correcta
+02:46:32,628  INFO IndexServlet:72 - carrito disponible
+02:46:32,911  INFO IndexServlet:90 - catalogo disponible
+02:46:32,916  INFO IndexServlet:96 - mas vendidos disponible
+02:46:32,925  INFO IndexServlet:101 - editoriales disponible
+02:46:43,287  INFO AccesoServlet:116 - Rol de usuario, es correcto
+02:46:43,374  INFO AccesoServlet:126 - clave correcta
+03:08:39,861  INFO IndexServlet:72 - carrito disponible
+03:08:40,154  INFO IndexServlet:90 - catalogo disponible
+03:08:40,159  INFO IndexServlet:96 - mas vendidos disponible
+03:08:40,169  INFO IndexServlet:101 - editoriales disponible
+03:57:01,423  INFO IndexServlet:72 - carrito disponible
+03:57:01,703  INFO IndexServlet:90 - catalogo disponible
+03:57:01,709  INFO IndexServlet:96 - mas vendidos disponible
+03:57:01,718  INFO IndexServlet:101 - editoriales disponible
+03:57:11,526  INFO AccesoServlet:116 - Rol de usuario, es correcto
+03:57:11,588  INFO AccesoServlet:126 - clave correcta
+03:59:06,455  INFO IndexServlet:72 - carrito disponible
+03:59:06,726  INFO IndexServlet:90 - catalogo disponible
+03:59:06,732  INFO IndexServlet:96 - mas vendidos disponible
+03:59:06,739  INFO IndexServlet:101 - editoriales disponible
+04:01:29,570  INFO IndexServlet:72 - carrito disponible
+04:01:29,857  INFO IndexServlet:90 - catalogo disponible
+04:01:29,862  INFO IndexServlet:96 - mas vendidos disponible
+04:01:29,871  INFO IndexServlet:101 - editoriales disponible
+04:01:46,182  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:01:46,236  INFO AccesoServlet:126 - clave correcta
+04:03:23,116  INFO IndexServlet:72 - carrito disponible
+04:03:23,407  INFO IndexServlet:90 - catalogo disponible
+04:03:23,413  INFO IndexServlet:96 - mas vendidos disponible
+04:03:23,422  INFO IndexServlet:101 - editoriales disponible
+04:04:07,611  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:04:07,681  INFO AccesoServlet:126 - clave correcta
+04:10:45,577  INFO IndexServlet:72 - carrito disponible
+04:10:45,861  INFO IndexServlet:90 - catalogo disponible
+04:10:45,867  INFO IndexServlet:96 - mas vendidos disponible
+04:10:45,875  INFO IndexServlet:101 - editoriales disponible
+04:10:54,498  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:10:54,584  INFO AccesoServlet:126 - clave correcta
+04:34:10,026  INFO IndexServlet:72 - carrito disponible
+04:34:10,325  INFO IndexServlet:90 - catalogo disponible
+04:34:10,332  INFO IndexServlet:96 - mas vendidos disponible
+04:34:10,341  INFO IndexServlet:101 - editoriales disponible
+04:34:20,753  INFO AccesoServlet:116 - Rol de usuario, es correcto
+04:34:20,826  INFO AccesoServlet:126 - clave correcta
+14:35:52,047  INFO IndexServlet:72 - carrito disponible
+14:35:52,361  INFO IndexServlet:90 - catalogo disponible
+14:35:52,368  INFO IndexServlet:96 - mas vendidos disponible
+14:35:52,376  INFO IndexServlet:101 - editoriales disponible
+14:36:19,871  INFO AccesoServlet:116 - Rol de usuario, es correcto
+14:36:19,956  INFO AccesoServlet:126 - clave correcta
+14:37:26,685  INFO IndexServlet:72 - carrito disponible
+14:37:26,689  INFO IndexServlet:90 - catalogo disponible
+14:37:26,692  INFO IndexServlet:96 - mas vendidos disponible
+14:37:26,696  INFO IndexServlet:101 - editoriales disponible
+14:37:54,256  INFO AccesoServlet:116 - Rol de usuario, es correcto
+14:37:54,271  INFO AccesoServlet:126 - clave correcta
+14:42:31,834  INFO IndexServlet:72 - carrito disponible
+14:42:32,100  INFO IndexServlet:90 - catalogo disponible
+14:42:32,106  INFO IndexServlet:96 - mas vendidos disponible
+14:42:32,115  INFO IndexServlet:101 - editoriales disponible
+14:42:41,163  INFO AccesoServlet:116 - Rol de usuario, es correcto
+14:42:41,276  INFO AccesoServlet:126 - clave correcta
+14:59:29,798  INFO IndexServlet:72 - carrito disponible
+14:59:30,081  INFO IndexServlet:90 - catalogo disponible
+14:59:30,087  INFO IndexServlet:96 - mas vendidos disponible
+14:59:30,096  INFO IndexServlet:101 - editoriales disponible
+14:59:40,138  INFO AccesoServlet:116 - Rol de usuario, es correcto
+14:59:40,269  INFO AccesoServlet:126 - clave correcta
+15:02:12,310  INFO IndexServlet:72 - carrito disponible
+15:02:12,591  INFO IndexServlet:90 - catalogo disponible
+15:02:12,597  INFO IndexServlet:96 - mas vendidos disponible
+15:02:12,606  INFO IndexServlet:101 - editoriales disponible
+15:02:20,507  INFO AccesoServlet:116 - Rol de usuario, es correcto
+15:02:20,600  INFO AccesoServlet:126 - clave correcta
+15:06:17,468  INFO IndexServlet:72 - carrito disponible
+15:06:17,735  INFO IndexServlet:90 - catalogo disponible
+15:06:17,742  INFO IndexServlet:96 - mas vendidos disponible
+15:06:17,751  INFO IndexServlet:101 - editoriales disponible
+15:06:28,700  INFO AccesoServlet:116 - Rol de usuario, es correcto
+15:06:28,760  INFO AccesoServlet:126 - clave correcta
+15:09:29,947  INFO IndexServlet:72 - carrito disponible
+15:09:30,225  INFO IndexServlet:90 - catalogo disponible
+15:09:30,230  INFO IndexServlet:96 - mas vendidos disponible
+15:09:30,240  INFO IndexServlet:101 - editoriales disponible
+15:09:38,847  INFO AccesoServlet:116 - Rol de usuario, es correcto
+15:09:38,942  INFO AccesoServlet:126 - clave correcta
+15:11:36,326  INFO IndexServlet:72 - carrito disponible
+15:11:36,591  INFO IndexServlet:90 - catalogo disponible
+15:11:36,596  INFO IndexServlet:96 - mas vendidos disponible
+15:11:36,605  INFO IndexServlet:101 - editoriales disponible
+15:11:45,586  INFO AccesoServlet:116 - Rol de usuario, es correcto
+15:11:45,649  INFO AccesoServlet:126 - clave correcta
+15:13:58,688  INFO IndexServlet:72 - carrito disponible
+15:13:58,977  INFO IndexServlet:90 - catalogo disponible
+15:13:58,983  INFO IndexServlet:96 - mas vendidos disponible
+15:13:58,993  INFO IndexServlet:101 - editoriales disponible
+15:14:07,274  INFO AccesoServlet:116 - Rol de usuario, es correcto
+15:14:07,338  INFO AccesoServlet:126 - clave correcta
+15:16:36,390  INFO IndexServlet:72 - carrito disponible
+15:16:36,662  INFO IndexServlet:90 - catalogo disponible
+15:16:36,669  INFO IndexServlet:96 - mas vendidos disponible
+15:16:36,679  INFO IndexServlet:101 - editoriales disponible
+15:16:46,133  INFO AccesoServlet:116 - Rol de usuario, es correcto
+15:16:46,227  INFO AccesoServlet:126 - clave correcta
+15:17:19,547  INFO AccesoServlet:116 - Rol de usuario, es correcto
+15:17:19,561  INFO AccesoServlet:126 - clave correcta
+15:19:02,262  INFO AccesoServlet:116 - Rol de usuario, es correcto
+15:19:02,268  INFO AccesoServlet:126 - clave correcta
+17:18:33,782  INFO IndexServlet:72 - carrito disponible
+17:18:34,055  INFO IndexServlet:90 - catalogo disponible
+17:18:34,061  INFO IndexServlet:96 - mas vendidos disponible
+17:18:34,069  INFO IndexServlet:101 - editoriales disponible
+17:19:01,831  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:19:01,922  INFO AccesoServlet:126 - clave correcta
+17:24:38,539  INFO IndexServlet:72 - carrito disponible
+17:24:38,806  INFO IndexServlet:90 - catalogo disponible
+17:24:38,813  INFO IndexServlet:96 - mas vendidos disponible
+17:24:38,822  INFO IndexServlet:101 - editoriales disponible
+17:24:52,178  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:24:52,243  INFO AccesoServlet:126 - clave correcta
+17:27:08,784  INFO IndexServlet:72 - carrito disponible
+17:27:09,054  INFO IndexServlet:90 - catalogo disponible
+17:27:09,061  INFO IndexServlet:96 - mas vendidos disponible
+17:27:09,070  INFO IndexServlet:101 - editoriales disponible
+17:27:17,772  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:27:17,847  INFO AccesoServlet:126 - clave correcta
+17:29:23,341  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:29:23,359  INFO AccesoServlet:126 - clave correcta
+17:37:36,548  INFO IndexServlet:72 - carrito disponible
+17:37:36,827  INFO IndexServlet:90 - catalogo disponible
+17:37:36,833  INFO IndexServlet:96 - mas vendidos disponible
+17:37:36,842  INFO IndexServlet:101 - editoriales disponible
+17:37:45,105  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:37:45,193  INFO AccesoServlet:126 - clave correcta
+17:40:04,619  INFO IndexServlet:72 - carrito disponible
+17:40:04,884  INFO IndexServlet:90 - catalogo disponible
+17:40:04,889  INFO IndexServlet:96 - mas vendidos disponible
+17:40:04,898  INFO IndexServlet:101 - editoriales disponible
+17:40:17,323  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:40:17,402  INFO AccesoServlet:126 - clave correcta
+17:43:01,068  INFO IndexServlet:72 - carrito disponible
+17:43:01,334  INFO IndexServlet:90 - catalogo disponible
+17:43:01,338  INFO IndexServlet:96 - mas vendidos disponible
+17:43:01,347  INFO IndexServlet:101 - editoriales disponible
+17:43:12,509  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:43:12,561  INFO AccesoServlet:126 - clave correcta
+17:45:59,133  INFO IndexServlet:72 - carrito disponible
+17:45:59,402  INFO IndexServlet:90 - catalogo disponible
+17:45:59,408  INFO IndexServlet:96 - mas vendidos disponible
+17:45:59,417  INFO IndexServlet:101 - editoriales disponible
+17:46:19,747  INFO IndexServlet:72 - carrito disponible
+17:46:20,022  INFO IndexServlet:90 - catalogo disponible
+17:46:20,027  INFO IndexServlet:96 - mas vendidos disponible
+17:46:20,036  INFO IndexServlet:101 - editoriales disponible
+17:46:34,801  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:46:34,852  INFO AccesoServlet:126 - clave correcta
+17:49:35,607  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:49:35,620  INFO AccesoServlet:126 - clave correcta
+17:51:10,401  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:51:10,418  INFO AccesoServlet:126 - clave correcta
+17:52:26,116  INFO IndexServlet:72 - carrito disponible
+17:52:26,377  INFO IndexServlet:90 - catalogo disponible
+17:52:26,383  INFO IndexServlet:96 - mas vendidos disponible
+17:52:26,391  INFO IndexServlet:101 - editoriales disponible
+17:52:39,013  INFO AccesoServlet:116 - Rol de usuario, es correcto
+17:52:39,077  INFO AccesoServlet:126 - clave correcta
+18:30:08,588  INFO IndexServlet:72 - carrito disponible
+18:30:08,867  INFO IndexServlet:90 - catalogo disponible
+18:30:08,874  INFO IndexServlet:96 - mas vendidos disponible
+18:30:08,884  INFO IndexServlet:101 - editoriales disponible
+18:39:17,414  INFO IndexServlet:72 - carrito disponible
+18:39:17,676  INFO IndexServlet:90 - catalogo disponible
+18:39:17,682  INFO IndexServlet:96 - mas vendidos disponible
+18:39:17,690  INFO IndexServlet:101 - editoriales disponible
+18:39:58,530  INFO IndexServlet:90 - catalogo disponible
+18:39:58,537  INFO IndexServlet:96 - mas vendidos disponible
+18:39:58,549  INFO IndexServlet:101 - editoriales disponible
+18:47:40,349  INFO IndexServlet:72 - carrito disponible
+18:47:40,614  INFO IndexServlet:90 - catalogo disponible
+18:47:40,621  INFO IndexServlet:96 - mas vendidos disponible
+18:47:40,630  INFO IndexServlet:101 - editoriales disponible
+18:48:20,370  INFO IndexServlet:72 - carrito disponible
+18:48:20,623  INFO IndexServlet:90 - catalogo disponible
+18:48:20,629  INFO IndexServlet:96 - mas vendidos disponible
+18:48:20,638  INFO IndexServlet:101 - editoriales disponible
+18:50:33,001  INFO IndexServlet:72 - carrito disponible
+18:50:33,272  INFO IndexServlet:90 - catalogo disponible
+18:50:33,278  INFO IndexServlet:96 - mas vendidos disponible
+18:50:33,287  INFO IndexServlet:101 - editoriales disponible
+18:53:24,861  INFO IndexServlet:72 - carrito disponible
+18:53:25,138  INFO IndexServlet:90 - catalogo disponible
+18:53:25,145  INFO IndexServlet:96 - mas vendidos disponible
+18:53:25,154  INFO IndexServlet:101 - editoriales disponible
+19:11:43,920  INFO IndexServlet:72 - carrito disponible
+19:11:44,172  INFO IndexServlet:90 - catalogo disponible
+19:11:44,178  INFO IndexServlet:96 - mas vendidos disponible
+19:11:44,187  INFO IndexServlet:101 - editoriales disponible
+19:11:52,490  INFO AccesoServlet:116 - Rol de usuario, es correcto
+19:11:52,542  INFO AccesoServlet:126 - clave correcta
+19:13:01,185  INFO IndexServlet:72 - carrito disponible
+19:13:01,456  INFO IndexServlet:90 - catalogo disponible
+19:13:01,462  INFO IndexServlet:96 - mas vendidos disponible
+19:13:01,472  INFO IndexServlet:101 - editoriales disponible
+19:13:12,291  INFO AccesoServlet:116 - Rol de usuario, es correcto
+19:13:12,366  INFO AccesoServlet:126 - clave correcta
+19:13:40,621  INFO IndexServlet:72 - carrito disponible
+19:13:40,625  INFO IndexServlet:90 - catalogo disponible
+19:13:40,629  INFO IndexServlet:96 - mas vendidos disponible
+19:13:40,633  INFO IndexServlet:101 - editoriales disponible
+19:13:49,154  INFO AccesoServlet:116 - Rol de usuario, es correcto
+19:13:49,171  INFO AccesoServlet:126 - clave correcta
+19:14:52,185  INFO IndexServlet:90 - catalogo disponible
+19:14:52,188  INFO IndexServlet:96 - mas vendidos disponible
+19:14:52,192  INFO IndexServlet:101 - editoriales disponible
+19:14:54,626  INFO IndexServlet:77 - Producto añadido al carrito
+19:14:54,637  INFO IndexServlet:90 - catalogo disponible
+19:14:54,641  INFO IndexServlet:96 - mas vendidos disponible
+19:14:54,641  INFO IndexServlet:101 - editoriales disponible
+19:15:01,261  INFO IndexServlet:90 - catalogo disponible
+19:15:01,264  INFO IndexServlet:96 - mas vendidos disponible
+19:15:01,267  INFO IndexServlet:101 - editoriales disponible
+19:15:04,757  INFO IndexServlet:72 - carrito disponible
+19:15:04,761  INFO IndexServlet:90 - catalogo disponible
+19:15:04,761  INFO IndexServlet:96 - mas vendidos disponible
+19:15:04,766  INFO IndexServlet:101 - editoriales disponible
+20:21:57,630  INFO IndexServlet:72 - carrito disponible
+20:21:57,914  INFO IndexServlet:90 - catalogo disponible
+20:21:57,920  INFO IndexServlet:96 - mas vendidos disponible
+20:21:57,928  INFO IndexServlet:101 - editoriales disponible
+20:22:12,125  INFO AccesoServlet:116 - Rol de usuario, es correcto
+20:22:12,205  INFO AccesoServlet:126 - clave correcta
+20:32:28,026  INFO IndexServlet:72 - carrito disponible
+20:32:28,298  INFO IndexServlet:90 - catalogo disponible
+20:32:28,304  INFO IndexServlet:96 - mas vendidos disponible
+20:32:28,312  INFO IndexServlet:101 - editoriales disponible
+20:32:39,106  INFO AccesoServlet:116 - Rol de usuario, es correcto
+20:32:39,162  INFO AccesoServlet:126 - clave correcta
+20:56:53,484  INFO IndexServlet:72 - carrito disponible
+20:56:53,759  INFO IndexServlet:90 - catalogo disponible
+20:56:53,765  INFO IndexServlet:96 - mas vendidos disponible
+20:56:53,773  INFO IndexServlet:101 - editoriales disponible
+20:57:03,560  INFO AccesoServlet:116 - Rol de usuario, es correcto
+20:57:03,665  INFO AccesoServlet:126 - clave correcta
+21:01:20,466  INFO IndexServlet:72 - carrito disponible
+21:01:20,742  INFO IndexServlet:90 - catalogo disponible
+21:01:20,749  INFO IndexServlet:96 - mas vendidos disponible
+21:01:20,758  INFO IndexServlet:101 - editoriales disponible
+21:01:29,527  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:01:29,622  INFO AccesoServlet:126 - clave correcta
+21:04:23,255  INFO IndexServlet:72 - carrito disponible
+21:04:23,258  INFO IndexServlet:90 - catalogo disponible
+21:04:23,260  INFO IndexServlet:96 - mas vendidos disponible
+21:04:23,263  INFO IndexServlet:101 - editoriales disponible
+21:04:30,776  INFO LoginServlet:116 - Rol de usuario, es correcto
+21:04:30,795  INFO LoginServlet:125 - clave correcta
+21:04:30,798  INFO IndexServlet:90 - catalogo disponible
+21:04:30,806  INFO IndexServlet:96 - mas vendidos disponible
+21:04:30,809  INFO IndexServlet:101 - editoriales disponible
+21:20:42,113  INFO IndexServlet:72 - carrito disponible
+21:20:42,374  INFO IndexServlet:90 - catalogo disponible
+21:20:42,379  INFO IndexServlet:96 - mas vendidos disponible
+21:20:42,388  INFO IndexServlet:101 - editoriales disponible
+21:20:57,770  INFO LoginServlet:116 - Rol de usuario, es correcto
+21:20:57,839  INFO LoginServlet:125 - clave correcta
+21:20:57,849  INFO IndexServlet:90 - catalogo disponible
+21:20:57,852  INFO IndexServlet:96 - mas vendidos disponible
+21:20:57,857  INFO IndexServlet:101 - editoriales disponible
+21:22:11,934  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:22:11,948  INFO AccesoServlet:126 - clave correcta
+21:22:23,190  INFO IndexServlet:72 - carrito disponible
+21:22:23,193  INFO IndexServlet:90 - catalogo disponible
+21:22:23,196  INFO IndexServlet:96 - mas vendidos disponible
+21:22:23,199  INFO IndexServlet:101 - editoriales disponible
+21:22:31,863  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:22:31,879  INFO AccesoServlet:126 - clave correcta
+21:25:30,319  INFO IndexServlet:72 - carrito disponible
+21:25:30,593  INFO IndexServlet:90 - catalogo disponible
+21:25:30,599  INFO IndexServlet:96 - mas vendidos disponible
+21:25:30,608  INFO IndexServlet:101 - editoriales disponible
+21:25:40,672  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:25:40,755  INFO AccesoServlet:126 - clave correcta
+21:28:33,474  INFO IndexServlet:72 - carrito disponible
+21:28:33,740  INFO IndexServlet:90 - catalogo disponible
+21:28:33,747  INFO IndexServlet:96 - mas vendidos disponible
+21:28:33,756  INFO IndexServlet:101 - editoriales disponible
+21:28:47,250  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:28:47,363  INFO AccesoServlet:126 - clave correcta
+21:36:05,304  INFO IndexServlet:72 - carrito disponible
+21:36:05,575  INFO IndexServlet:90 - catalogo disponible
+21:36:05,581  INFO IndexServlet:96 - mas vendidos disponible
+21:36:05,591  INFO IndexServlet:101 - editoriales disponible
+21:36:18,020  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:36:18,103  INFO AccesoServlet:126 - clave correcta
+21:39:44,832  INFO IndexServlet:72 - carrito disponible
+21:39:45,092  INFO IndexServlet:90 - catalogo disponible
+21:39:45,099  INFO IndexServlet:96 - mas vendidos disponible
+21:39:45,107  INFO IndexServlet:101 - editoriales disponible
+21:39:53,142  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:39:53,217  INFO AccesoServlet:126 - clave correcta
+21:44:01,533  INFO IndexServlet:72 - carrito disponible
+21:44:01,812  INFO IndexServlet:90 - catalogo disponible
+21:44:01,818  INFO IndexServlet:96 - mas vendidos disponible
+21:44:01,827  INFO IndexServlet:101 - editoriales disponible
+21:44:51,871  INFO IndexServlet:72 - carrito disponible
+21:44:52,150  INFO IndexServlet:90 - catalogo disponible
+21:44:52,156  INFO IndexServlet:96 - mas vendidos disponible
+21:44:52,164  INFO IndexServlet:101 - editoriales disponible
+21:45:29,272  INFO IndexServlet:72 - carrito disponible
+21:45:29,546  INFO IndexServlet:90 - catalogo disponible
+21:45:29,552  INFO IndexServlet:96 - mas vendidos disponible
+21:45:29,561  INFO IndexServlet:101 - editoriales disponible
+21:46:35,697  INFO IndexServlet:72 - carrito disponible
+21:46:35,976  INFO IndexServlet:90 - catalogo disponible
+21:46:35,982  INFO IndexServlet:96 - mas vendidos disponible
+21:46:35,991  INFO IndexServlet:101 - editoriales disponible
+21:48:38,022  INFO IndexServlet:72 - carrito disponible
+21:48:38,289  INFO IndexServlet:90 - catalogo disponible
+21:48:38,296  INFO IndexServlet:96 - mas vendidos disponible
+21:48:38,304  INFO IndexServlet:101 - editoriales disponible
+21:50:36,828  INFO IndexServlet:72 - carrito disponible
+21:50:37,109  INFO IndexServlet:90 - catalogo disponible
+21:50:37,113  INFO IndexServlet:96 - mas vendidos disponible
+21:50:37,123  INFO IndexServlet:101 - editoriales disponible
+21:50:50,076  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:50:50,138  INFO AccesoServlet:126 - clave correcta
+21:52:45,623  INFO IndexServlet:72 - carrito disponible
+21:52:45,627  INFO IndexServlet:90 - catalogo disponible
+21:52:45,631  INFO IndexServlet:96 - mas vendidos disponible
+21:52:45,634  INFO IndexServlet:101 - editoriales disponible
+21:53:03,367  INFO AccesoServlet:116 - Rol de usuario, es correcto
+21:53:03,395  INFO AccesoServlet:126 - clave correcta
+22:03:11,669  INFO IndexServlet:72 - carrito disponible
+22:03:11,948  INFO IndexServlet:90 - catalogo disponible
+22:03:11,955  INFO IndexServlet:96 - mas vendidos disponible
+22:03:11,963  INFO IndexServlet:101 - editoriales disponible
+22:03:24,332  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:03:24,409  INFO AccesoServlet:126 - clave correcta
+22:04:08,042  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:04:08,057  INFO AccesoServlet:126 - clave correcta
+22:04:58,682  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:04:58,691  INFO AccesoServlet:126 - clave correcta
+22:05:06,341  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:05:06,351  INFO AccesoServlet:126 - clave correcta
+22:05:19,678  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:05:19,685  INFO AccesoServlet:126 - clave correcta
+22:05:33,007  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:05:33,011  INFO AccesoServlet:126 - clave correcta
+22:06:24,164  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:06:24,171  INFO AccesoServlet:126 - clave correcta
+22:06:44,435  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:06:44,441  INFO AccesoServlet:126 - clave correcta
+22:07:02,121  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:07:02,128  INFO AccesoServlet:126 - clave correcta
+22:08:13,170  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:08:13,180  INFO AccesoServlet:126 - clave correcta
+22:08:25,143  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:08:25,166  INFO AccesoServlet:126 - clave correcta
+22:09:09,689  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:09:09,696  INFO AccesoServlet:126 - clave correcta
+22:09:30,763  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:09:30,769  INFO AccesoServlet:126 - clave correcta
+22:09:40,660  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:09:40,667  INFO AccesoServlet:126 - clave correcta
+22:09:58,437  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:09:58,443  INFO AccesoServlet:126 - clave correcta
+22:11:08,128  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:11:08,136  INFO AccesoServlet:126 - clave correcta
+22:11:20,693  INFO IndexServlet:72 - carrito disponible
+22:11:20,696  INFO IndexServlet:90 - catalogo disponible
+22:11:20,698  INFO IndexServlet:96 - mas vendidos disponible
+22:11:20,702  INFO IndexServlet:101 - editoriales disponible
+22:27:51,010  INFO IndexServlet:72 - carrito disponible
+22:27:51,283  INFO IndexServlet:90 - catalogo disponible
+22:27:51,290  INFO IndexServlet:96 - mas vendidos disponible
+22:27:51,299  INFO IndexServlet:101 - editoriales disponible
+22:28:11,245  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:28:11,293  INFO AccesoServlet:126 - clave correcta
+22:28:39,605  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:28:39,614  INFO AccesoServlet:126 - clave correcta
+22:29:51,965  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:29:51,972  INFO AccesoServlet:126 - clave correcta
+22:30:10,532  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:30:10,541  INFO AccesoServlet:126 - clave correcta
+22:30:42,959  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:30:42,968  INFO AccesoServlet:126 - clave correcta
+22:30:50,738  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:30:50,745  INFO AccesoServlet:126 - clave correcta
+22:31:33,110  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:31:33,117  INFO AccesoServlet:126 - clave correcta
+22:32:53,954  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:32:53,961  INFO AccesoServlet:126 - clave correcta
+22:32:59,563  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:32:59,571  INFO AccesoServlet:126 - clave correcta
+22:33:14,402  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:33:14,409  INFO AccesoServlet:126 - clave correcta
+22:33:23,911  INFO IndexServlet:72 - carrito disponible
+22:33:23,916  INFO IndexServlet:90 - catalogo disponible
+22:33:23,919  INFO IndexServlet:96 - mas vendidos disponible
+22:33:23,923  INFO IndexServlet:101 - editoriales disponible
+22:33:35,101  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:33:35,109  INFO AccesoServlet:126 - clave correcta
+22:34:25,939  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:34:25,946  INFO AccesoServlet:126 - clave correcta
+22:34:30,249  INFO IndexServlet:90 - catalogo disponible
+22:34:30,252  INFO IndexServlet:96 - mas vendidos disponible
+22:34:30,256  INFO IndexServlet:101 - editoriales disponible
+22:34:54,522  INFO IndexServlet:90 - catalogo disponible
+22:34:54,524  INFO IndexServlet:96 - mas vendidos disponible
+22:34:54,527  INFO IndexServlet:101 - editoriales disponible
+22:35:03,035  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:35:03,043  INFO AccesoServlet:126 - clave correcta
+22:36:27,003  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:36:27,010  INFO AccesoServlet:126 - clave correcta
+22:37:13,697  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:37:13,705  INFO AccesoServlet:126 - clave correcta
+22:37:32,689  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:37:32,697  INFO AccesoServlet:126 - clave correcta
+22:37:46,994  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:37:47,002  INFO AccesoServlet:126 - clave correcta
+22:38:35,696  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:38:35,705  INFO AccesoServlet:126 - clave correcta
+22:38:53,003  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:38:53,011  INFO AccesoServlet:126 - clave correcta
+22:39:50,541  INFO AccesoServlet:116 - Rol de usuario, es correcto
+22:39:50,549  INFO AccesoServlet:126 - clave correcta
+22:39:54,826  INFO IndexServlet:72 - carrito disponible
+22:39:54,829  INFO IndexServlet:90 - catalogo disponible
+22:39:54,832  INFO IndexServlet:96 - mas vendidos disponible
+22:39:54,833  INFO IndexServlet:101 - editoriales disponible
+23:56:30,829  INFO IndexServlet:72 - carrito disponible
+23:56:31,517  INFO IndexServlet:90 - catalogo disponible
+23:56:31,533  INFO IndexServlet:96 - mas vendidos disponible
+23:56:31,553  INFO IndexServlet:101 - editoriales disponible
+23:59:15,975  INFO IndexServlet:90 - catalogo disponible
+23:59:15,982  INFO IndexServlet:96 - mas vendidos disponible
+23:59:15,992  INFO IndexServlet:101 - editoriales disponible
+00:01:48,565  INFO IndexServlet:90 - catalogo disponible
+00:01:48,578  INFO IndexServlet:96 - mas vendidos disponible
+00:01:48,589  INFO IndexServlet:101 - editoriales disponible
+00:02:07,172  INFO IndexServlet:90 - catalogo disponible
+00:02:07,180  INFO IndexServlet:96 - mas vendidos disponible
+00:02:07,187  INFO IndexServlet:101 - editoriales disponible
+00:02:18,530  INFO IndexServlet:90 - catalogo disponible
+00:02:18,540  INFO IndexServlet:96 - mas vendidos disponible
+00:02:18,546  INFO IndexServlet:101 - editoriales disponible
+00:02:28,501  INFO IndexServlet:90 - catalogo disponible
+00:02:28,508  INFO IndexServlet:96 - mas vendidos disponible
+00:02:28,516  INFO IndexServlet:101 - editoriales disponible
+00:02:30,591  INFO IndexServlet:90 - catalogo disponible
+00:02:30,606  INFO IndexServlet:96 - mas vendidos disponible
+00:02:30,615  INFO IndexServlet:101 - editoriales disponible
+00:02:40,159  INFO IndexServlet:90 - catalogo disponible
+00:02:40,167  INFO IndexServlet:96 - mas vendidos disponible
+00:02:40,175  INFO IndexServlet:101 - editoriales disponible
+00:02:48,284  INFO IndexServlet:90 - catalogo disponible
+00:02:48,296  INFO IndexServlet:96 - mas vendidos disponible
+00:02:48,296  INFO IndexServlet:101 - editoriales disponible
+00:02:59,548  INFO IndexServlet:90 - catalogo disponible
+00:02:59,559  INFO IndexServlet:96 - mas vendidos disponible
+00:02:59,559  INFO IndexServlet:101 - editoriales disponible
+00:06:45,183  INFO IndexServlet:90 - catalogo disponible
+00:06:45,201  INFO IndexServlet:96 - mas vendidos disponible
+00:06:45,218  INFO IndexServlet:101 - editoriales disponible
+00:07:05,813  INFO IndexServlet:90 - catalogo disponible
+00:07:05,824  INFO IndexServlet:96 - mas vendidos disponible
+00:07:05,832  INFO IndexServlet:101 - editoriales disponible
+00:07:09,717  INFO IndexServlet:90 - catalogo disponible
+00:07:09,721  INFO IndexServlet:96 - mas vendidos disponible
+00:07:09,734  INFO IndexServlet:101 - editoriales disponible
+00:07:14,225  INFO IndexServlet:90 - catalogo disponible
+00:07:14,233  INFO IndexServlet:96 - mas vendidos disponible
+00:07:14,240  INFO IndexServlet:101 - editoriales disponible
+00:07:40,053  INFO IndexServlet:90 - catalogo disponible
+00:07:40,059  INFO IndexServlet:96 - mas vendidos disponible
+00:07:40,066  INFO IndexServlet:101 - editoriales disponible
+00:08:05,654  INFO IndexServlet:77 - Producto añadido al carrito
+00:08:05,670  INFO IndexServlet:90 - catalogo disponible
+00:08:05,677  INFO IndexServlet:96 - mas vendidos disponible
+00:08:05,683  INFO IndexServlet:101 - editoriales disponible
+00:08:08,913  INFO IndexServlet:77 - Producto añadido al carrito
+00:08:08,926  INFO IndexServlet:90 - catalogo disponible
+00:08:08,933  INFO IndexServlet:96 - mas vendidos disponible
+00:08:08,939  INFO IndexServlet:101 - editoriales disponible
+00:08:13,646  INFO IndexServlet:77 - Producto añadido al carrito
+00:08:13,655  INFO IndexServlet:90 - catalogo disponible
+00:08:13,668  INFO IndexServlet:96 - mas vendidos disponible
+00:08:13,675  INFO IndexServlet:101 - editoriales disponible
+00:08:29,555  INFO IndexServlet:90 - catalogo disponible
+00:08:29,562  INFO IndexServlet:96 - mas vendidos disponible
+00:08:29,569  INFO IndexServlet:101 - editoriales disponible
+00:08:35,615  INFO IndexServlet:90 - catalogo disponible
+00:08:35,623  INFO IndexServlet:96 - mas vendidos disponible
+00:08:35,632  INFO IndexServlet:101 - editoriales disponible
+00:08:54,888  INFO IndexServlet:90 - catalogo disponible
+00:08:54,888  INFO IndexServlet:96 - mas vendidos disponible
+00:08:54,899  INFO IndexServlet:101 - editoriales disponible
+00:10:17,683  INFO RegistroServlet:84 - password encriptada
+00:10:17,709  INFO RegistroServlet:103 - usuario registrado
+00:10:38,869  INFO LoginServlet:116 - Rol de usuario, es correcto
+00:10:38,890  INFO LoginServlet:125 - clave correcta
+00:10:38,908  INFO IndexServlet:90 - catalogo disponible
+00:10:38,914  INFO IndexServlet:96 - mas vendidos disponible
+00:10:38,922  INFO IndexServlet:101 - editoriales disponible
+00:11:47,245  INFO IndexServlet:90 - catalogo disponible
+00:11:47,251  INFO IndexServlet:96 - mas vendidos disponible
+00:11:47,259  INFO IndexServlet:101 - editoriales disponible
+00:12:18,531  INFO AccesoServlet:54 - Rol incorrecto
+00:12:24,304  INFO AccesoServlet:116 - Rol de usuario, es correcto
+00:12:24,322  INFO AccesoServlet:126 - clave correcta
+00:13:37,413  INFO AccesoServlet:116 - Rol de usuario, es correcto
+00:13:37,436  INFO AccesoServlet:126 - clave correcta
+00:13:56,816  INFO AccesoServlet:116 - Rol de usuario, es correcto
+00:13:56,827  INFO AccesoServlet:126 - clave correcta
+00:14:18,656  INFO IndexServlet:72 - carrito disponible
+00:14:18,663  INFO IndexServlet:90 - catalogo disponible
+00:14:18,664  INFO IndexServlet:96 - mas vendidos disponible
+00:14:18,675  INFO IndexServlet:101 - editoriales disponible
+00:14:27,545  INFO LoginServlet:116 - Rol de usuario, es correcto
+00:14:27,560  INFO LoginServlet:125 - clave correcta
+00:14:27,575  INFO IndexServlet:90 - catalogo disponible
+00:14:27,586  INFO IndexServlet:96 - mas vendidos disponible
+00:14:27,592  INFO IndexServlet:101 - editoriales disponible
+00:14:36,107  INFO IndexServlet:90 - catalogo disponible
+00:14:36,115  INFO IndexServlet:96 - mas vendidos disponible
+00:14:36,119  INFO IndexServlet:101 - editoriales disponible
+00:14:39,116  INFO IndexServlet:77 - Producto añadido al carrito
+00:14:39,135  INFO IndexServlet:90 - catalogo disponible
+00:14:39,143  INFO IndexServlet:96 - mas vendidos disponible
+00:14:39,150  INFO IndexServlet:101 - editoriales disponible
+00:14:49,644  INFO IndexServlet:90 - catalogo disponible
+00:14:49,658  INFO IndexServlet:96 - mas vendidos disponible
+00:14:49,665  INFO IndexServlet:101 - editoriales disponible
+00:15:17,723  INFO IndexServlet:72 - carrito disponible
+00:15:17,733  INFO IndexServlet:90 - catalogo disponible
+00:15:17,745  INFO IndexServlet:96 - mas vendidos disponible
+00:15:17,745  INFO IndexServlet:101 - editoriales disponible
+00:16:35,271  INFO IndexServlet:90 - catalogo disponible
+00:16:35,287  INFO IndexServlet:96 - mas vendidos disponible
+00:16:35,295  INFO IndexServlet:101 - editoriales disponible
+00:16:55,549  INFO AccesoServlet:116 - Rol de usuario, es correcto
+00:16:55,567  INFO AccesoServlet:126 - clave correcta
+00:16:59,234  INFO AccesoServlet:116 - Rol de usuario, es correcto
+00:16:59,251  INFO AccesoServlet:126 - clave correcta
+00:17:06,699  INFO IndexServlet:72 - carrito disponible
+00:17:06,706  INFO IndexServlet:90 - catalogo disponible
+00:17:06,711  INFO IndexServlet:96 - mas vendidos disponible
+00:17:06,717  INFO IndexServlet:101 - editoriales disponible
+00:18:54,717  INFO IndexServlet:72 - carrito disponible
+00:18:54,724  INFO IndexServlet:90 - catalogo disponible
+00:18:54,730  INFO IndexServlet:96 - mas vendidos disponible
+00:18:54,736  INFO IndexServlet:101 - editoriales disponible
+00:19:47,304  INFO AccesoServlet:116 - Rol de usuario, es correcto
+00:19:47,320  INFO AccesoServlet:126 - clave correcta
+00:22:12,659  INFO IndexServlet:90 - catalogo disponible
+00:22:12,665  INFO IndexServlet:96 - mas vendidos disponible
+00:22:12,666  INFO IndexServlet:101 - editoriales disponible
+00:22:14,559  INFO IndexServlet:90 - catalogo disponible
+00:22:14,559  INFO IndexServlet:96 - mas vendidos disponible
+00:22:14,570  INFO IndexServlet:101 - editoriales disponible
+00:23:20,222  INFO IndexServlet:90 - catalogo disponible
+00:23:20,228  INFO IndexServlet:96 - mas vendidos disponible
+00:23:20,233  INFO IndexServlet:101 - editoriales disponible
+00:23:32,105  INFO IndexServlet:90 - catalogo disponible
+00:23:32,110  INFO IndexServlet:96 - mas vendidos disponible
+00:23:32,116  INFO IndexServlet:101 - editoriales disponible
+00:23:34,236  INFO IndexServlet:90 - catalogo disponible
+00:23:34,246  INFO IndexServlet:96 - mas vendidos disponible
+00:23:34,249  INFO IndexServlet:101 - editoriales disponible
+00:23:37,878  INFO IndexServlet:90 - catalogo disponible
+00:23:37,884  INFO IndexServlet:96 - mas vendidos disponible
+00:23:37,890  INFO IndexServlet:101 - editoriales disponible
+00:23:42,351  INFO IndexServlet:90 - catalogo disponible
+00:23:42,358  INFO IndexServlet:96 - mas vendidos disponible
+00:23:42,362  INFO IndexServlet:101 - editoriales disponible
+00:23:55,222  INFO IndexServlet:90 - catalogo disponible
+00:23:55,226  INFO IndexServlet:96 - mas vendidos disponible
+00:23:55,232  INFO IndexServlet:101 - editoriales disponible
+00:24:24,549  INFO IndexServlet:90 - catalogo disponible
+00:24:24,555  INFO IndexServlet:96 - mas vendidos disponible
+00:24:24,558  INFO IndexServlet:101 - editoriales disponible
+00:24:32,341  INFO IndexServlet:77 - Producto añadido al carrito
+00:24:32,354  INFO IndexServlet:90 - catalogo disponible
+00:24:32,359  INFO IndexServlet:96 - mas vendidos disponible
+00:24:32,367  INFO IndexServlet:101 - editoriales disponible
+00:24:35,272  INFO IndexServlet:77 - Producto añadido al carrito
+00:24:35,283  INFO IndexServlet:90 - catalogo disponible
+00:24:35,289  INFO IndexServlet:96 - mas vendidos disponible
+00:24:35,297  INFO IndexServlet:101 - editoriales disponible
+00:24:45,866  INFO IndexServlet:73 - Producto añadido al carrito
+00:24:45,878  INFO IndexServlet:90 - catalogo disponible
+00:24:45,882  INFO IndexServlet:96 - mas vendidos disponible
+00:24:45,887  INFO IndexServlet:101 - editoriales disponible
+00:25:12,274 ERROR IndexServlet:69 - Error: No hay stock suficiente
+00:25:12,282  INFO IndexServlet:90 - catalogo disponible
+00:25:12,287  INFO IndexServlet:96 - mas vendidos disponible
+00:25:12,292  INFO IndexServlet:101 - editoriales disponible
+00:25:57,789  INFO LoginServlet:116 - Rol de usuario, es correcto
+00:25:57,806  INFO LoginServlet:125 - clave correcta
+00:25:57,823  INFO IndexServlet:90 - catalogo disponible
+00:25:57,826  INFO IndexServlet:96 - mas vendidos disponible
+00:25:57,832  INFO IndexServlet:101 - editoriales disponible
+00:27:41,776  INFO IndexServlet:90 - catalogo disponible
+00:27:41,790  INFO IndexServlet:96 - mas vendidos disponible
+00:27:41,804  INFO IndexServlet:101 - editoriales disponible
+00:28:02,370  INFO AccesoServlet:116 - Rol de usuario, es correcto
+00:28:02,388  INFO AccesoServlet:126 - clave correcta
+00:30:18,326  INFO IndexServlet:90 - catalogo disponible
+00:30:18,331  INFO IndexServlet:96 - mas vendidos disponible
+00:30:18,336  INFO IndexServlet:101 - editoriales disponible
+00:30:28,992  INFO IndexServlet:72 - carrito disponible
+00:30:28,992  INFO IndexServlet:90 - catalogo disponible
+00:30:28,992  INFO IndexServlet:96 - mas vendidos disponible
+00:30:29,008  INFO IndexServlet:101 - editoriales disponible
+01:13:53,224  INFO IndexServlet:72 - carrito disponible
+01:13:53,503  INFO IndexServlet:90 - catalogo disponible
+01:13:53,510  INFO IndexServlet:96 - mas vendidos disponible
+01:13:53,519  INFO IndexServlet:101 - editoriales disponible
+01:14:05,770  INFO AccesoServlet:125 - Rol de usuario, es correcto
+01:14:05,885  INFO AccesoServlet:135 - clave correcta
+01:34:42,599  INFO IndexServlet:72 - carrito disponible
+01:34:42,855  INFO IndexServlet:90 - catalogo disponible
+01:34:42,861  INFO IndexServlet:96 - mas vendidos disponible
+01:34:42,869  INFO IndexServlet:101 - editoriales disponible
+01:34:53,573  INFO AccesoServlet:125 - Rol de usuario, es correcto
+01:34:53,654  INFO AccesoServlet:135 - clave correcta
+01:54:22,673  INFO IndexServlet:72 - carrito disponible
+01:54:22,948  INFO IndexServlet:90 - catalogo disponible
+01:54:22,954  INFO IndexServlet:96 - mas vendidos disponible
+01:54:22,962  INFO IndexServlet:101 - editoriales disponible
+01:54:34,025  INFO LoginServlet:116 - Rol de usuario, es correcto
+01:54:34,116  INFO LoginServlet:125 - clave correcta
+01:54:34,129  INFO IndexServlet:90 - catalogo disponible
+01:54:34,134  INFO IndexServlet:96 - mas vendidos disponible
+01:54:34,138  INFO IndexServlet:101 - editoriales disponible
+01:54:44,900  INFO IndexServlet:77 - Producto añadido al carrito
+01:54:44,911  INFO IndexServlet:90 - catalogo disponible
+01:54:44,916  INFO IndexServlet:96 - mas vendidos disponible
+01:54:44,918  INFO IndexServlet:101 - editoriales disponible
+01:55:06,646  INFO IndexServlet:90 - catalogo disponible
+01:55:06,650  INFO IndexServlet:96 - mas vendidos disponible
+01:55:06,653  INFO IndexServlet:101 - editoriales disponible
+02:00:51,520  INFO IndexServlet:72 - carrito disponible
+02:00:51,796  INFO IndexServlet:90 - catalogo disponible
+02:00:51,802  INFO IndexServlet:96 - mas vendidos disponible
+02:00:51,812  INFO IndexServlet:101 - editoriales disponible
+02:00:58,406  INFO LoginServlet:116 - Rol de usuario, es correcto
+02:00:58,507  INFO LoginServlet:125 - clave correcta
+02:00:58,518  INFO IndexServlet:90 - catalogo disponible
+02:00:58,523  INFO IndexServlet:96 - mas vendidos disponible
+02:00:58,527  INFO IndexServlet:101 - editoriales disponible
+02:01:36,910  INFO IndexServlet:72 - carrito disponible
+02:01:36,914  INFO IndexServlet:90 - catalogo disponible
+02:01:36,917  INFO IndexServlet:96 - mas vendidos disponible
+02:01:36,920  INFO IndexServlet:101 - editoriales disponible
+02:02:21,012  INFO IndexServlet:90 - catalogo disponible
+02:02:21,015  INFO IndexServlet:96 - mas vendidos disponible
+02:02:21,017  INFO IndexServlet:101 - editoriales disponible
+02:02:40,192  INFO IndexServlet:77 - Producto añadido al carrito
+02:02:40,199  INFO IndexServlet:90 - catalogo disponible
+02:02:40,201  INFO IndexServlet:96 - mas vendidos disponible
+02:02:40,204  INFO IndexServlet:101 - editoriales disponible
+02:02:46,944  INFO LoginServlet:116 - Rol de usuario, es correcto
+02:02:46,961  INFO LoginServlet:125 - clave correcta
+02:02:46,975  INFO IndexServlet:90 - catalogo disponible
+02:02:46,981  INFO IndexServlet:96 - mas vendidos disponible
+02:02:46,981  INFO IndexServlet:101 - editoriales disponible
+02:03:00,227  INFO IndexServlet:90 - catalogo disponible
+02:03:00,229  INFO IndexServlet:96 - mas vendidos disponible
+02:03:00,229  INFO IndexServlet:101 - editoriales disponible
+02:03:52,453  INFO IndexServlet:90 - catalogo disponible
+02:03:52,453  INFO IndexServlet:96 - mas vendidos disponible
+02:03:52,459  INFO IndexServlet:101 - editoriales disponible
+02:03:53,696  INFO IndexServlet:77 - Producto añadido al carrito
+02:03:53,703  INFO IndexServlet:90 - catalogo disponible
+02:03:53,705  INFO IndexServlet:96 - mas vendidos disponible
+02:03:53,708  INFO IndexServlet:101 - editoriales disponible
+02:04:47,171  INFO IndexServlet:90 - catalogo disponible
+02:04:47,173  INFO IndexServlet:96 - mas vendidos disponible
+02:04:47,176  INFO IndexServlet:101 - editoriales disponible
+02:04:57,748  INFO IndexServlet:90 - catalogo disponible
+02:04:57,751  INFO IndexServlet:96 - mas vendidos disponible
+02:04:57,752  INFO IndexServlet:101 - editoriales disponible
+02:04:58,930  INFO IndexServlet:77 - Producto añadido al carrito
+02:04:58,936  INFO IndexServlet:90 - catalogo disponible
+02:04:58,939  INFO IndexServlet:96 - mas vendidos disponible
+02:04:58,941  INFO IndexServlet:101 - editoriales disponible
+02:05:04,479  INFO IndexServlet:90 - catalogo disponible
+02:05:04,481  INFO IndexServlet:96 - mas vendidos disponible
+02:05:04,484  INFO IndexServlet:101 - editoriales disponible
+02:05:39,309  INFO IndexServlet:90 - catalogo disponible
+02:05:39,312  INFO IndexServlet:96 - mas vendidos disponible
+02:05:39,314  INFO IndexServlet:101 - editoriales disponible
+02:05:40,375  INFO IndexServlet:77 - Producto añadido al carrito
+02:05:40,381  INFO IndexServlet:90 - catalogo disponible
+02:05:40,383  INFO IndexServlet:96 - mas vendidos disponible
+02:05:40,385  INFO IndexServlet:101 - editoriales disponible
+02:07:54,783  INFO IndexServlet:90 - catalogo disponible
+02:07:54,786  INFO IndexServlet:96 - mas vendidos disponible
+02:07:54,788  INFO IndexServlet:101 - editoriales disponible
+02:15:51,196  INFO IndexServlet:90 - catalogo disponible
+02:15:51,198  INFO IndexServlet:96 - mas vendidos disponible
+02:15:51,200  INFO IndexServlet:101 - editoriales disponible
+02:34:42,971  INFO IndexServlet:90 - catalogo disponible
+02:34:42,973  INFO IndexServlet:96 - mas vendidos disponible
+02:34:42,976  INFO IndexServlet:101 - editoriales disponible
+02:38:07,022  INFO IndexServlet:90 - catalogo disponible
+02:38:07,024  INFO IndexServlet:96 - mas vendidos disponible
+02:38:07,028  INFO IndexServlet:101 - editoriales disponible
+02:38:18,833  INFO IndexServlet:77 - Producto añadido al carrito
+02:38:20,164  INFO IndexServlet:73 - Producto añadido al carrito
+02:38:23,668  INFO IndexServlet:90 - catalogo disponible
+02:38:23,670  INFO IndexServlet:96 - mas vendidos disponible
+02:38:23,672  INFO IndexServlet:101 - editoriales disponible
+02:54:29,602  INFO IndexServlet:90 - catalogo disponible
+02:54:29,604  INFO IndexServlet:96 - mas vendidos disponible
+02:54:29,606  INFO IndexServlet:101 - editoriales disponible
+02:59:48,273  INFO IndexServlet:90 - catalogo disponible
+02:59:48,275  INFO IndexServlet:96 - mas vendidos disponible
+02:59:48,275  INFO IndexServlet:101 - editoriales disponible
+03:00:24,145  INFO IndexServlet:90 - catalogo disponible
+03:00:24,145  INFO IndexServlet:96 - mas vendidos disponible
+03:00:24,145  INFO IndexServlet:101 - editoriales disponible
+03:01:48,273  INFO IndexServlet:90 - catalogo disponible
+03:01:48,275  INFO IndexServlet:96 - mas vendidos disponible
+03:01:48,278  INFO IndexServlet:101 - editoriales disponible
+03:01:50,876  INFO IndexServlet:77 - Producto añadido al carrito
+03:01:50,881  INFO IndexServlet:90 - catalogo disponible
+03:01:50,882  INFO IndexServlet:96 - mas vendidos disponible
+03:01:50,886  INFO IndexServlet:101 - editoriales disponible
+03:01:56,288 ERROR IndexServlet:69 - Error: No hay stock suficiente
+03:01:56,291  INFO IndexServlet:90 - catalogo disponible
+03:01:56,293  INFO IndexServlet:96 - mas vendidos disponible
+03:01:56,296  INFO IndexServlet:101 - editoriales disponible
+03:02:05,781  INFO IndexServlet:73 - Producto añadido al carrito
+03:02:05,786  INFO IndexServlet:90 - catalogo disponible
+03:02:05,788  INFO IndexServlet:96 - mas vendidos disponible
+03:02:05,789  INFO IndexServlet:101 - editoriales disponible
+03:03:04,641  INFO IndexServlet:73 - Producto añadido al carrito
+03:03:04,646  INFO IndexServlet:90 - catalogo disponible
+03:03:04,647  INFO IndexServlet:96 - mas vendidos disponible
+03:03:04,650  INFO IndexServlet:101 - editoriales disponible
+03:03:15,970  INFO IndexServlet:73 - Producto añadido al carrito
+03:03:15,975  INFO IndexServlet:90 - catalogo disponible
+03:03:15,976  INFO IndexServlet:96 - mas vendidos disponible
+03:03:15,978  INFO IndexServlet:101 - editoriales disponible
+03:03:38,360  INFO IndexServlet:90 - catalogo disponible
+03:03:38,364  INFO IndexServlet:96 - mas vendidos disponible
+03:03:38,365  INFO IndexServlet:101 - editoriales disponible
+03:03:42,765  INFO IndexServlet:77 - Producto añadido al carrito
+03:03:42,769  INFO IndexServlet:90 - catalogo disponible
+03:03:42,772  INFO IndexServlet:96 - mas vendidos disponible
+03:03:42,774  INFO IndexServlet:101 - editoriales disponible
+03:03:47,261  INFO IndexServlet:73 - Producto añadido al carrito
+03:03:47,267  INFO IndexServlet:90 - catalogo disponible
+03:03:47,268  INFO IndexServlet:96 - mas vendidos disponible
+03:03:47,270  INFO IndexServlet:101 - editoriales disponible
+03:03:56,983  INFO IndexServlet:90 - catalogo disponible
+03:03:56,985  INFO IndexServlet:96 - mas vendidos disponible
+03:03:56,987  INFO IndexServlet:101 - editoriales disponible
+03:04:57,106  INFO IndexServlet:90 - catalogo disponible
+03:04:57,107  INFO IndexServlet:96 - mas vendidos disponible
+03:04:57,109  INFO IndexServlet:101 - editoriales disponible
+03:05:08,450  INFO IndexServlet:72 - carrito disponible
+03:05:08,452  INFO IndexServlet:90 - catalogo disponible
+03:05:08,453  INFO IndexServlet:96 - mas vendidos disponible
+03:05:08,455  INFO IndexServlet:101 - editoriales disponible
+03:05:12,623  INFO IndexServlet:90 - catalogo disponible
+03:05:12,625  INFO IndexServlet:96 - mas vendidos disponible
+03:05:12,626  INFO IndexServlet:101 - editoriales disponible
+03:23:32,174  INFO IndexServlet:72 - carrito disponible
+03:23:32,453  INFO IndexServlet:90 - catalogo disponible
+03:23:32,460  INFO IndexServlet:96 - mas vendidos disponible
+03:23:32,470  INFO IndexServlet:101 - editoriales disponible
+03:23:41,791  INFO IndexServlet:90 - catalogo disponible
+03:23:41,796  INFO IndexServlet:96 - mas vendidos disponible
+03:23:41,800  INFO IndexServlet:101 - editoriales disponible
+03:23:57,958  INFO IndexServlet:90 - catalogo disponible
+03:23:57,958  INFO IndexServlet:96 - mas vendidos disponible
+03:23:57,958  INFO IndexServlet:101 - editoriales disponible
+03:24:17,793  INFO IndexServlet:90 - catalogo disponible
+03:24:17,795  INFO IndexServlet:96 - mas vendidos disponible
+03:24:17,798  INFO IndexServlet:101 - editoriales disponible
+03:24:32,189  INFO IndexServlet:90 - catalogo disponible
+03:24:32,192  INFO IndexServlet:96 - mas vendidos disponible
+03:24:32,195  INFO IndexServlet:101 - editoriales disponible
+03:25:36,899  INFO IndexServlet:90 - catalogo disponible
+03:25:36,906  INFO IndexServlet:96 - mas vendidos disponible
+03:25:36,908  INFO IndexServlet:101 - editoriales disponible
+03:25:56,328  INFO IndexServlet:90 - catalogo disponible
+03:25:56,332  INFO IndexServlet:96 - mas vendidos disponible
+03:25:56,334  INFO IndexServlet:101 - editoriales disponible
+03:26:29,674  INFO IndexServlet:90 - catalogo disponible
+03:26:29,677  INFO IndexServlet:96 - mas vendidos disponible
+03:26:29,681  INFO IndexServlet:101 - editoriales disponible
+03:27:12,908  INFO IndexServlet:90 - catalogo disponible
+03:27:12,911  INFO IndexServlet:96 - mas vendidos disponible
+03:27:12,913  INFO IndexServlet:101 - editoriales disponible
+03:27:50,948  INFO IndexServlet:90 - catalogo disponible
+03:27:50,950  INFO IndexServlet:96 - mas vendidos disponible
+03:27:50,953  INFO IndexServlet:101 - editoriales disponible
+03:28:09,220  INFO IndexServlet:90 - catalogo disponible
+03:28:09,220  INFO IndexServlet:96 - mas vendidos disponible
+03:28:09,229  INFO IndexServlet:101 - editoriales disponible
+03:28:10,735  INFO IndexServlet:90 - catalogo disponible
+03:28:10,739  INFO IndexServlet:96 - mas vendidos disponible
+03:28:10,742  INFO IndexServlet:101 - editoriales disponible
+03:28:11,955  INFO IndexServlet:90 - catalogo disponible
+03:28:11,957  INFO IndexServlet:96 - mas vendidos disponible
+03:28:11,959  INFO IndexServlet:101 - editoriales disponible
+03:31:18,873  INFO IndexServlet:72 - carrito disponible
+03:31:19,142  INFO IndexServlet:90 - catalogo disponible
+03:31:19,150  INFO IndexServlet:96 - mas vendidos disponible
+03:31:19,159  INFO IndexServlet:101 - editoriales disponible
+03:31:22,007  INFO IndexServlet:90 - catalogo disponible
+03:31:22,009  INFO IndexServlet:96 - mas vendidos disponible
+03:31:22,014  INFO IndexServlet:101 - editoriales disponible
+03:31:28,352  INFO IndexServlet:90 - catalogo disponible
+03:31:28,354  INFO IndexServlet:96 - mas vendidos disponible
+03:31:28,354  INFO IndexServlet:101 - editoriales disponible
+03:31:33,603  INFO IndexServlet:90 - catalogo disponible
+03:31:33,606  INFO IndexServlet:96 - mas vendidos disponible
+03:31:33,609  INFO IndexServlet:101 - editoriales disponible
+03:31:37,723  INFO IndexServlet:90 - catalogo disponible
+03:31:37,726  INFO IndexServlet:96 - mas vendidos disponible
+03:31:37,729  INFO IndexServlet:101 - editoriales disponible
+03:32:21,710  INFO IndexServlet:90 - catalogo disponible
+03:32:21,714  INFO IndexServlet:96 - mas vendidos disponible
+03:32:21,716  INFO IndexServlet:101 - editoriales disponible
+03:32:33,885  INFO IndexServlet:90 - catalogo disponible
+03:32:33,888  INFO IndexServlet:96 - mas vendidos disponible
+03:32:33,890  INFO IndexServlet:101 - editoriales disponible
+03:45:16,801  INFO IndexServlet:72 - carrito disponible
+03:45:17,067  INFO IndexServlet:90 - catalogo disponible
+03:45:17,073  INFO IndexServlet:96 - mas vendidos disponible
+03:45:17,082  INFO IndexServlet:101 - editoriales disponible
+03:45:23,091  INFO LoginServlet:116 - Rol de usuario, es correcto
+03:45:23,237  INFO LoginServlet:125 - clave correcta
+03:45:23,245  INFO IndexServlet:90 - catalogo disponible
+03:45:23,254  INFO IndexServlet:96 - mas vendidos disponible
+03:45:23,259  INFO IndexServlet:101 - editoriales disponible
+03:46:05,709  INFO IndexServlet:72 - carrito disponible
+03:46:05,712  INFO IndexServlet:90 - catalogo disponible
+03:46:05,715  INFO IndexServlet:96 - mas vendidos disponible
+03:46:05,719  INFO IndexServlet:101 - editoriales disponible
+03:46:25,732  INFO LoginServlet:116 - Rol de usuario, es correcto
+03:46:25,757  INFO LoginServlet:125 - clave correcta
+03:46:25,761  INFO IndexServlet:90 - catalogo disponible
+03:46:25,767  INFO IndexServlet:96 - mas vendidos disponible
+03:46:25,772  INFO IndexServlet:101 - editoriales disponible
+03:47:15,791  INFO IndexServlet:72 - carrito disponible
+03:47:15,795  INFO IndexServlet:90 - catalogo disponible
+03:47:15,797  INFO IndexServlet:96 - mas vendidos disponible
+03:47:15,800  INFO IndexServlet:101 - editoriales disponible
+03:47:20,050  INFO LoginServlet:116 - Rol de usuario, es correcto
+03:47:20,057  INFO LoginServlet:125 - clave correcta
+03:47:20,059  INFO IndexServlet:90 - catalogo disponible
+03:47:20,059  INFO IndexServlet:96 - mas vendidos disponible
+03:47:20,071  INFO IndexServlet:101 - editoriales disponible
+03:47:38,126  INFO IndexServlet:72 - carrito disponible
+03:47:38,126  INFO IndexServlet:90 - catalogo disponible
+03:47:38,130  INFO IndexServlet:96 - mas vendidos disponible
+03:47:38,135  INFO IndexServlet:101 - editoriales disponible
+03:52:15,978  INFO IndexServlet:72 - carrito disponible
+03:52:16,248  INFO IndexServlet:90 - catalogo disponible
+03:52:16,256  INFO IndexServlet:96 - mas vendidos disponible
+03:52:16,264  INFO IndexServlet:101 - editoriales disponible
+03:56:15,733  INFO IndexServlet:72 - carrito disponible
+03:56:16,010  INFO IndexServlet:90 - catalogo disponible
+03:56:16,017  INFO IndexServlet:96 - mas vendidos disponible
+03:56:16,026  INFO IndexServlet:101 - editoriales disponible
+03:58:07,121  INFO IndexServlet:90 - catalogo disponible
+03:58:07,125  INFO IndexServlet:96 - mas vendidos disponible
+03:58:07,129  INFO IndexServlet:101 - editoriales disponible
+04:43:45,551  INFO IndexServlet:72 - carrito disponible
+04:43:45,823  INFO IndexServlet:90 - catalogo disponible
+04:43:45,829  INFO IndexServlet:96 - mas vendidos disponible
+04:43:45,838  INFO IndexServlet:101 - editoriales disponible
+04:43:51,428  INFO LoginServlet:116 - Rol de usuario, es correcto
+04:43:51,540  INFO LoginServlet:125 - clave correcta
+04:43:51,555  INFO IndexServlet:90 - catalogo disponible
+04:43:51,557  INFO IndexServlet:96 - mas vendidos disponible
+04:43:51,566  INFO IndexServlet:101 - editoriales disponible
+04:44:39,273  INFO IndexServlet:72 - carrito disponible
+04:44:39,276  INFO IndexServlet:90 - catalogo disponible
+04:44:39,279  INFO IndexServlet:96 - mas vendidos disponible
+04:44:39,282  INFO IndexServlet:101 - editoriales disponible
+09:28:42,783  INFO IndexServlet:72 - carrito disponible
+09:29:34,828  INFO IndexServlet:72 - carrito disponible
+09:29:35,571  INFO IndexServlet:90 - catalogo disponible
+09:29:35,585  INFO IndexServlet:96 - mas vendidos disponible
+09:29:35,604  INFO IndexServlet:101 - editoriales disponible
+11:18:24,670  INFO IndexServlet:72 - carrito disponible
+11:18:25,306  INFO IndexServlet:90 - catalogo disponible
+11:18:25,322  INFO IndexServlet:96 - mas vendidos disponible
+11:18:25,342  INFO IndexServlet:101 - editoriales disponible
+11:19:04,967  INFO IndexServlet:90 - catalogo disponible
+11:19:04,977  INFO IndexServlet:96 - mas vendidos disponible
+11:19:04,990  INFO IndexServlet:101 - editoriales disponible
+11:19:27,004  INFO IndexServlet:90 - catalogo disponible
+11:19:27,020  INFO IndexServlet:96 - mas vendidos disponible
+11:19:27,029  INFO IndexServlet:101 - editoriales disponible
+12:04:04,802  INFO IndexServlet:72 - carrito disponible
+12:04:05,451  INFO IndexServlet:90 - catalogo disponible
+12:04:05,470  INFO IndexServlet:96 - mas vendidos disponible
+12:04:05,490  INFO IndexServlet:101 - editoriales disponible
+12:06:47,841  INFO LoginServlet:116 - Rol de usuario, es correcto
+12:06:48,095  INFO LoginServlet:125 - clave correcta
+12:06:48,120  INFO IndexServlet:90 - catalogo disponible
+12:06:48,132  INFO IndexServlet:96 - mas vendidos disponible
+12:06:48,136  INFO IndexServlet:101 - editoriales disponible
+12:07:12,815  INFO IndexServlet:72 - carrito disponible
+12:07:12,815  INFO IndexServlet:90 - catalogo disponible
+12:07:12,828  INFO IndexServlet:96 - mas vendidos disponible
+12:07:12,828  INFO IndexServlet:101 - editoriales disponible
+12:07:22,035  INFO IndexServlet:90 - catalogo disponible
+12:07:22,043  INFO IndexServlet:96 - mas vendidos disponible
+12:07:22,057  INFO IndexServlet:101 - editoriales disponible
+12:07:26,002  INFO IndexServlet:90 - catalogo disponible
+12:07:26,009  INFO IndexServlet:96 - mas vendidos disponible
+12:07:26,015  INFO IndexServlet:101 - editoriales disponible
+12:09:03,633  INFO AccesoServlet:125 - Rol de usuario, es correcto
+12:09:03,652  INFO AccesoServlet:135 - clave correcta
+12:10:08,002  INFO IndexServlet:90 - catalogo disponible
+12:10:08,019  INFO IndexServlet:96 - mas vendidos disponible
+12:10:08,035  INFO IndexServlet:101 - editoriales disponible
+12:10:40,065  INFO IndexServlet:90 - catalogo disponible
+12:10:40,073  INFO IndexServlet:96 - mas vendidos disponible
+12:10:40,079  INFO IndexServlet:101 - editoriales disponible
+12:11:34,910  INFO IndexServlet:90 - catalogo disponible
+12:11:34,922  INFO IndexServlet:96 - mas vendidos disponible
+12:11:34,923  INFO IndexServlet:101 - editoriales disponible
+12:14:00,778  INFO IndexServlet:90 - catalogo disponible
+12:14:00,789  INFO IndexServlet:96 - mas vendidos disponible
+12:14:00,797  INFO IndexServlet:101 - editoriales disponible
+12:14:08,212  INFO IndexServlet:90 - catalogo disponible
+12:14:08,217  INFO IndexServlet:96 - mas vendidos disponible
+12:14:08,224  INFO IndexServlet:101 - editoriales disponible
+12:14:14,385  INFO IndexServlet:90 - catalogo disponible
+12:14:14,393  INFO IndexServlet:96 - mas vendidos disponible
+12:14:14,400  INFO IndexServlet:101 - editoriales disponible
+12:14:25,201  INFO IndexServlet:90 - catalogo disponible
+12:14:25,202  INFO IndexServlet:96 - mas vendidos disponible
+12:14:25,213  INFO IndexServlet:101 - editoriales disponible
+12:14:32,371  INFO IndexServlet:84 - Producto añadido al carrito
+12:14:32,387  INFO IndexServlet:90 - catalogo disponible
+12:14:32,394  INFO IndexServlet:96 - mas vendidos disponible
+12:14:32,401  INFO IndexServlet:101 - editoriales disponible
+12:14:45,250  INFO IndexServlet:84 - Producto añadido al carrito
+12:14:47,246  INFO IndexServlet:90 - catalogo disponible
+12:14:47,246  INFO IndexServlet:96 - mas vendidos disponible
+12:14:47,261  INFO IndexServlet:101 - editoriales disponible
+12:15:00,012  INFO IndexServlet:84 - Producto añadido al carrito
+12:16:10,427  INFO RegistroServlet:84 - password encriptada
+12:16:10,447  INFO RegistroServlet:103 - usuario registrado
+12:16:22,743  INFO LoginServlet:116 - Rol de usuario, es correcto
+12:16:22,763  INFO LoginServlet:125 - clave correcta
+12:16:22,781  INFO IndexServlet:90 - catalogo disponible
+12:16:22,781  INFO IndexServlet:96 - mas vendidos disponible
+12:16:22,792  INFO IndexServlet:101 - editoriales disponible
+12:17:07,047  INFO IndexServlet:90 - catalogo disponible
+12:17:07,062  INFO IndexServlet:96 - mas vendidos disponible
+12:17:07,062  INFO IndexServlet:101 - editoriales disponible
+12:17:09,459  INFO IndexServlet:84 - Producto añadido al carrito
+12:17:09,476  INFO IndexServlet:90 - catalogo disponible
+12:17:09,487  INFO IndexServlet:96 - mas vendidos disponible
+12:17:09,497  INFO IndexServlet:101 - editoriales disponible
+12:17:10,374  INFO IndexServlet:80 - Producto añadido al carrito
+12:17:10,386  INFO IndexServlet:90 - catalogo disponible
+12:17:10,392  INFO IndexServlet:96 - mas vendidos disponible
+12:17:10,397  INFO IndexServlet:101 - editoriales disponible
+12:17:20,863  INFO IndexServlet:90 - catalogo disponible
+12:17:20,863  INFO IndexServlet:96 - mas vendidos disponible
+12:17:20,879  INFO IndexServlet:101 - editoriales disponible
+12:17:40,552  INFO IndexServlet:90 - catalogo disponible
+12:17:40,552  INFO IndexServlet:96 - mas vendidos disponible
+12:17:40,562  INFO IndexServlet:101 - editoriales disponible
+12:17:42,765  INFO IndexServlet:90 - catalogo disponible
+12:17:42,773  INFO IndexServlet:96 - mas vendidos disponible
+12:17:42,779  INFO IndexServlet:101 - editoriales disponible
+12:17:48,863  INFO IndexServlet:90 - catalogo disponible
+12:17:48,864  INFO IndexServlet:96 - mas vendidos disponible
+12:17:48,872  INFO IndexServlet:101 - editoriales disponible
+12:18:01,309  INFO IndexServlet:90 - catalogo disponible
+12:18:01,314  INFO IndexServlet:96 - mas vendidos disponible
+12:18:01,328  INFO IndexServlet:101 - editoriales disponible
+12:19:55,356  INFO IndexServlet:90 - catalogo disponible
+12:19:55,365  INFO IndexServlet:96 - mas vendidos disponible
+12:19:55,380  INFO IndexServlet:101 - editoriales disponible
+12:20:12,230  INFO IndexServlet:84 - Producto añadido al carrito
+12:20:12,244  INFO IndexServlet:90 - catalogo disponible
+12:20:12,249  INFO IndexServlet:96 - mas vendidos disponible
+12:20:12,250  INFO IndexServlet:101 - editoriales disponible
+12:20:14,626 ERROR IndexServlet:69 - Error: No hay stock suficiente
+12:20:14,635  INFO IndexServlet:90 - catalogo disponible
+12:20:14,649  INFO IndexServlet:96 - mas vendidos disponible
+12:20:14,655  INFO IndexServlet:101 - editoriales disponible
+12:21:03,817  INFO IndexServlet:90 - catalogo disponible
+12:21:03,824  INFO IndexServlet:96 - mas vendidos disponible
+12:21:03,829  INFO IndexServlet:101 - editoriales disponible
+12:21:06,155 ERROR IndexServlet:69 - Error: No hay stock suficiente
+12:21:06,170  INFO IndexServlet:90 - catalogo disponible
+12:21:06,184  INFO IndexServlet:96 - mas vendidos disponible
+12:21:06,188  INFO IndexServlet:101 - editoriales disponible
+12:21:21,751  INFO IndexServlet:90 - catalogo disponible
+12:21:21,754  INFO IndexServlet:96 - mas vendidos disponible
+12:21:21,760  INFO IndexServlet:101 - editoriales disponible
+12:21:22,286  INFO IndexServlet:90 - catalogo disponible
+12:21:22,286  INFO IndexServlet:96 - mas vendidos disponible
+12:21:22,301  INFO IndexServlet:101 - editoriales disponible
+12:21:42,097  INFO AccesoServlet:125 - Rol de usuario, es correcto
+12:21:42,145  INFO AccesoServlet:135 - clave correcta
+12:23:40,798  INFO AccesoServlet:67 - Rol de usuario, es correcto
+12:26:41,781  INFO IndexServlet:72 - carrito disponible
+12:26:41,781  INFO IndexServlet:90 - catalogo disponible
+12:26:41,793  INFO IndexServlet:96 - mas vendidos disponible
+12:26:41,801  INFO IndexServlet:101 - editoriales disponible
+12:27:18,910  INFO AccesoServlet:125 - Rol de usuario, es correcto
+12:27:18,927  INFO AccesoServlet:135 - clave correcta
+12:28:05,955  INFO IndexServlet:90 - catalogo disponible
+12:28:05,960  INFO IndexServlet:96 - mas vendidos disponible
+12:28:05,971  INFO IndexServlet:101 - editoriales disponible
+12:28:12,011  INFO IndexServlet:90 - catalogo disponible
+12:28:12,018  INFO IndexServlet:96 - mas vendidos disponible
+12:28:12,025  INFO IndexServlet:101 - editoriales disponible
+12:28:22,251  INFO IndexServlet:90 - catalogo disponible
+12:28:22,253  INFO IndexServlet:96 - mas vendidos disponible
+12:28:22,262  INFO IndexServlet:101 - editoriales disponible
+12:28:46,705  INFO IndexServlet:72 - carrito disponible
+12:28:46,715  INFO IndexServlet:90 - catalogo disponible
+12:28:46,737  INFO IndexServlet:96 - mas vendidos disponible
+12:28:46,748  INFO IndexServlet:101 - editoriales disponible
+12:29:21,485  INFO IndexServlet:90 - catalogo disponible
+12:29:21,503  INFO IndexServlet:96 - mas vendidos disponible
+12:29:21,503  INFO IndexServlet:101 - editoriales disponible
+12:29:33,671  INFO IndexServlet:90 - catalogo disponible
+12:29:33,679  INFO IndexServlet:96 - mas vendidos disponible
+12:29:33,679  INFO IndexServlet:101 - editoriales disponible
